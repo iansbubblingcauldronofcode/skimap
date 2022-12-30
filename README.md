@@ -1,13 +1,15 @@
-### Oh, hello.
+### Ian's Ski Map
 
-I'll update this soon. Enjoy!
+Just a fun PDT project to better learn React w/TS
 
 ### Current TODO:
 
-- Upgrade MountainDetail
+- √ Upgrade MountainDetail
 - Change markers
 - Fix `any`s
 - Fix pagination on fetch
+- Fetch elevation
+- Fix snow totals (they're off)
 
 ### Bigger Ideas:
 

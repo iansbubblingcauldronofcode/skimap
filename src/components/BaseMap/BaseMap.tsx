@@ -2,7 +2,7 @@ import mapboxgl from 'mapbox-gl';
 import { useEffect, useRef } from 'react';
 import ReactDOM from 'react-dom';
 import { getAllResorts } from '../../api/skimap.api';
-import { convertResortsToMapPoints } from '../../utils/utils';
+import { configurePointForMap } from '../../utils/utils';
 import { MountainDetail } from '../MountainDetail/MountainDetail';
 
 export const BaseMap = () => {
@@ -46,7 +46,7 @@ export const BaseMap = () => {
 
       map.on('load', async () => {
         const resorts = await getAllResorts();
-        const pointsData = await convertResortsToMapPoints(resorts);
+        const pointsData = await configurePointForMap(resorts);
         const source: mapboxgl.GeoJSONSource = map.getSource('skimapdata') as mapboxgl.GeoJSONSource;
         source.setData(pointsData as any);
       });

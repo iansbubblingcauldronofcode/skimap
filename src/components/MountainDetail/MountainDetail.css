@@ -1,0 +1,19 @@
+.mountain-detail {
+  width: 222px;
+}
+
+.mountain-detail img {
+  width: 222px;
+}
+
+.mountain-detail h1 {
+  margin-top: 10px;
+}
+.mountain-detail h4 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.mountain-detail ul {
+  margin-top: 0;
+  padding-left: 15px;
+}
