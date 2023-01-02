@@ -13,6 +13,7 @@ Just a fun PDT project to better learn React w/TS
 - Fix pagination on fetch
   √ Change markers
   √ Fetch elevation
+- Move map functions to hook
 - Icons differ by size
 - 11k Club
 - Tram icons
