@@ -7,9 +7,10 @@ import mapboxgl from 'mapbox-gl';
 
 export interface UseMapProps {
   mapStyle: string;
+  updateMountainSidesheet: (mountainInfo: any) => void;
 }
 
-export const useMap = ({ mapStyle }: UseMapProps) => {
+export const useMap = ({ mapStyle, updateMountainSidesheet }: UseMapProps) => {
   const mapContainerRef = useRef(null);
   const popUpRef = useRef(new mapboxgl.Popup({ offset: 15 }) as any);
 
@@ -35,7 +36,7 @@ export const useMap = ({ mapStyle }: UseMapProps) => {
 
         // Load an image from an external URL.
         map.loadImage('https://cdn-icons-png.flaticon.com/512/2439/2439606.png', (error, image) => {
-          if (error) throw error;
+          if (error) console.log(error);
 
           if (image) {
             map.addImage('mountain', image);
@@ -75,7 +76,9 @@ export const useMap = ({ mapStyle }: UseMapProps) => {
         map.getCanvas().style.cursor = '';
       });
 
-      // add popup when user clicks a point
+      //================================================================
+      // ADD POPUP LAYER: (LEGACY) add popup when user clicks a point
+      //================================================================
       map.on('click', 'skimaplayer', (e: any) => {
         if (e.features.length) {
           const feature = e.features[0];
@@ -89,11 +92,21 @@ export const useMap = ({ mapStyle }: UseMapProps) => {
           popUpRef.current.setLngLat(feature.geometry.coordinates).setDOMContent(popupNode).addTo(map);
         }
       });
+      //================================================================
+
+      // iDo: SLIDE OUT SIDESHEET on click!
+      /*
+      map.on('click', 'skimaplayer', (e: any) => {
+        if (e.features.length) {
+          updateMountainSidesheet(e.features[0]);
+        }
+      });
+			*/
 
       // clean up on unmount
       return () => map.remove();
     }
-  }, []);
+  }, [mapStyle]);
 
   return {
     mapContainerRef,

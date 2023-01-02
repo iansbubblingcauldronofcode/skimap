@@ -2,7 +2,7 @@ import { fetchData } from '../utils/utils';
 
 // CONFIG
 //========
-const RESORT_LIMIT = 100;
+const RESORT_LIMIT = 1000;
 const baseUrl = 'https://api.onthesnow.com/api/v2/';
 
 // STRINGBUILDERS
@@ -56,7 +56,9 @@ export const getResortByRegion = async (regionId: any) => {
   let resorts = [];
   const resp = await fetchData(getResortUrl(regionId, 0));
 
+  /*
   // iDo: fix this absolute disaster
+  // It's also causing load issues so we're gonna truncate that for now.
   if (resp.pagination.count > resp.data.length) {
     resorts = [...resp.data];
     const resp2 = await fetchData(getResortUrl(regionId, 1));
@@ -70,4 +72,6 @@ export const getResortByRegion = async (regionId: any) => {
   } else {
     return resp.data;
   }
+  */
+  return resp.data;
 };
