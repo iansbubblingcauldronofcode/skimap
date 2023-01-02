@@ -1,23 +1,31 @@
-### Ian's Ski Map
+# Ian's Ski Map
 
-Just a fun PDT project to better learn React w/TS
+#### PDT Project for Dec/Jan 22-23
+
+##### Goal: better understand concepts of React/TypeScript/Redux via a fun project that aligns with my interests. Main areas I hope to improve:
+
+- Custom hooks
+- Strict typing
+- Library compatability
+- Patterns (OSoT, compartmentalization of hooks)
+- Lazy loading large data sets
+- Configuing FE to smoothly handle large quantities of data
+- Modulrization of TS files
 
 ### Current TODO:
 
-- √ Upgrade MountainDetail
+- √ Upgrade MountainDetail with elevations
 - MountainDetail -> Mountain Sidesheet
-
-# iDo today:
-
-- Fix `any`s
 - Fix pagination on fetch
-  √ Change markers
-  √ Fetch elevation
-- Move map functions to hook
-- Icons differ by size
-- 11k Club
+- Error handling for OTS 500s
+- Fix `any`s
+- √ Change markers
+- √ Fetch elevation
+- √ Move map functions to hook
+- Icons differ by size / vertical / etc
 - Tram icons
-  √ Fix snow totals (they're off) - comes in CM
+- 11k Club
+- √ Fix snow totals (they're off) - comes in CM
 
 ### Bigger Ideas:
 
@@ -26,8 +34,7 @@ Just a fun PDT project to better learn React w/TS
   - Biggest bases
   - Incoming weather
   - Ikon / Epic / Indie
-- Improve outward visibility w/ icons
-  - Icons are red if closed
+  - Navigation
 
 ## Running the Application
 
