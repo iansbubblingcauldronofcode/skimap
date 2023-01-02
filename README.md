@@ -5,11 +5,18 @@ Just a fun PDT project to better learn React w/TS
 ### Current TODO:
 
 - √ Upgrade MountainDetail
-- Change markers
+- MountainDetail -> Mountain Sidesheet
+
+# iDo today:
+
 - Fix `any`s
 - Fix pagination on fetch
-- Fetch elevation
-- Fix snow totals (they're off)
+  √ Change markers
+  √ Fetch elevation
+- Icons differ by size
+- 11k Club
+- Tram icons
+  √ Fix snow totals (they're off) - comes in CM
 
 ### Bigger Ideas:
 
@@ -19,8 +26,6 @@ Just a fun PDT project to better learn React w/TS
   - Incoming weather
   - Ikon / Epic / Indie
 - Improve outward visibility w/ icons
-  - Trams on resorts with trams (?)
-  - Icons differ by size
   - Icons are red if closed
 
 ## Running the Application

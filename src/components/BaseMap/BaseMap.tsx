@@ -1,11 +1,13 @@
 import mapboxgl from 'mapbox-gl';
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import ReactDOM from 'react-dom';
 import { getAllResorts } from '../../api/skimap.api';
 import { configurePointForMap } from '../../utils/utils';
 import { MountainDetail } from '../MountainDetail/MountainDetail';
 
 export const BaseMap = () => {
+  const [mapStyle, setMapStyle] = useState('satellite-v9');
+
   const mapContainerRef = useRef(null);
   const popUpRef = useRef(new mapboxgl.Popup({ offset: 15 }) as any);
 
@@ -15,7 +17,7 @@ export const BaseMap = () => {
       const map = new mapboxgl.Map({
         container: mapContainerRef.current,
         // See style options here: https://docs.mapbox.com/api/maps/#styles
-        style: 'mapbox://styles/mapbox/satellite-v9',
+        style: `mapbox://styles/mapbox/${mapStyle}`,
         center: [-101, 40],
         zoom: 4,
       });
@@ -30,22 +32,31 @@ export const BaseMap = () => {
           },
         });
 
-        // now add the layer, and reference the data source above by name
-        map.addLayer({
-          id: 'skimaplayer',
-          source: 'skimapdata',
-          type: 'symbol',
-          layout: {
-            // full list of icons here: https://labs.mapbox.com/maki-icons
-            'icon-image': 'mountain-15',
-            'icon-padding': 0,
-            'icon-allow-overlap': true,
-          },
+        // Load an image from an external URL.
+        map.loadImage('https://cdn-icons-png.flaticon.com/512/2439/2439606.png', (error, image) => {
+          if (error) throw error;
+
+          // Add the image to the map style.
+          map.addImage('mountain', image as any);
+
+          // now add the layer, and reference the data source above by name
+          map.addLayer({
+            id: 'skimaplayer',
+            source: 'skimapdata',
+            type: 'symbol',
+            layout: {
+              'icon-allow-overlap': true,
+              'icon-image': 'mountain', // reference the image
+              'icon-size': 0.05,
+              'icon-padding': 0,
+            },
+          });
         });
       });
 
       map.on('load', async () => {
         const resorts = await getAllResorts();
+        console.log('GOT RESORTS DATA => ', resorts);
         const pointsData = await configurePointForMap(resorts);
         const source: mapboxgl.GeoJSONSource = map.getSource('skimapdata') as mapboxgl.GeoJSONSource;
         source.setData(pointsData as any);

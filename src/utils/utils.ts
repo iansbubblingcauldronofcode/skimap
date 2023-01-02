@@ -15,7 +15,6 @@ export const fetchData = async (url: string) => await fetch(url, fetchConfig).th
 // Convert a response from the onthesnow api to a usable geo object
 export const configurePointForMap = (resorts: any) => {
   // Use this to check other possible fields.
-  // console.log('WE GET THIS =>>>>', resorts[0]);
   return Promise.resolve({
     type: 'FeatureCollection',
     features: resorts.map((r: any, index: any) => {
@@ -39,11 +38,21 @@ export const configurePointForMap = (resorts: any) => {
           trailMap: r.snowReport?.trailMap.image,
           acresOpen: r.snowReport.acres?.open,
           acresTotal: r.snowReport.acres?.total,
+          summit: r.elevation?.summit,
+          vertical: r.elevation?.verticalDrop,
+          base: r.elevation?.base,
         },
       };
     }),
   });
 };
+
+//=========================
+// FRONTEND STUFF
+//=========================
+
+export const cmToIn = (cm: number) => Math.round(cm * 0.393701);
+export const mToFt = (m: number) => Math.round(m * 3.28084);
 
 // const exampleResort = {
 //   uuid: '1',

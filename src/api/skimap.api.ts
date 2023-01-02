@@ -21,7 +21,7 @@ export const getAllResorts = async () => {
   const allResorts = [...usaResorts, ...canadaResorts];
 
   // Map the requests we want to send to filler values in the resorts array.
-  const requests = allResorts.map(async (resort) => {
+  const requestsBatch1 = allResorts.map(async (resort) => {
     return await getSnowReport(resort['uuid']).then((report) => {
       resort['lat'] = report.latitude;
       resort['lng'] = report.longitude;
@@ -30,12 +30,26 @@ export const getAllResorts = async () => {
     });
   });
 
+  // Also get elevation and lift data
+  const requestsBacth2 = allResorts.map(async (resort) => {
+    return await getResortDetails(resort['uuid']).then((details) => {
+      resort['lifts'] = details.lifts;
+      resort['elevation'] = details.elevation;
+      return resort;
+    });
+  });
+
+  const requests = [...requestsBatch1, ...requestsBacth2];
+
   // Await the Promises (execute the api calls) and return the new array with Promises resolved (snow reports populated).
   return await Promise.all(requests);
 };
 
 // Get recent snow plus lat/lng for every result (only way for now)
 export const getSnowReport = async (resortId: any) => await fetchData(baseUrl + `resort/${resortId}/snowreport`);
+
+// Get other details (elevation, lifts, etc.)
+export const getResortDetails = async (resortId: any) => await fetchData(baseUrl + `resort/${resortId}/trailMap`);
 
 // Fetch all resorts in a region given the Region ID
 export const getResortByRegion = async (regionId: any) => {

@@ -1,0 +1,67 @@
+/// https://api.onthesnow.com/api/v2/resort/20/trailMap
+{
+  "runs": {
+    "beginner": { "openNum": 6, "openLen": null, "openPercent": 100, "totalLen": null, "total": 6, "totalPercent": 7 },
+    "intermediate": {
+      "openNum": 24,
+      "openLen": null,
+      "openPercent": 69,
+      "totalLen": null,
+      "total": 35,
+      "totalPercent": 20
+    },
+    "advanced": {
+      "openNum": 27,
+      "openLen": null,
+      "openPercent": 47,
+      "totalLen": null,
+      "total": 57,
+      "totalPercent": 49
+    },
+    "expert": { "openNum": 0, "openLen": null, "openPercent": 0, "totalLen": null, "total": 49, "totalPercent": 24 },
+    "totalRunsLength": 0,
+    "longestRunLength": 2.41402,
+    "skiableAc": 1428,
+    "skiableKm": 0,
+    "skiableNightAc": 0,
+    "skiableNightKm": 0,
+    "snowMakingAc": 125,
+    "snowMakingKm": 0,
+    "total": 147
+  },
+  "lifts": {
+    "gondolasAndTrams": 0,
+    "eightPerson": 0,
+    "sixHS": 0,
+    "fourHS": 1,
+    "fourChairs": 3,
+    "threeChairs": 1,
+    "doubleChairs": 1,
+    "surface": 3
+  },
+  "elevation": { "summit": 3977.64, "verticalDrop": 771.144, "base": 3285.74 },
+  "terrain": { "acres": { "open": 757, "total": 1428 }, "km": { "open": null, "total": null }, "skiReturn": 0 },
+  "dates": {
+    "projectedOpening": "2022-10-23T00:00:00+00:00",
+    "projectedClosing": "2023-06-04T00:00:00+00:00",
+    "projectedDaysOpen": 270,
+    "yearsOpen": 77,
+    "averageSnowfall": 889,
+    "daysOpenLastYear": 234
+  },
+  "trailMap": {
+    "uuid": "20",
+    "source": null,
+    "image": "https://s3.onthesnow.com/images/trailmaps/colorado/arapahoe-basin-ski-area/20180813205828/xlarge.jpg",
+    "large": "https://s3.onthesnow.com/images/trailmaps/colorado/arapahoe-basin-ski-area/20180813205828/large.jpg",
+    "medium": "https://s3.onthesnow.com/images/trailmaps/colorado/arapahoe-basin-ski-area/20180813205828/mid.jpg",
+    "thumbnail": "https://s3.onthesnow.com/images/trailmaps/colorado/arapahoe-basin-ski-area/20180813205828/large.jpg",
+    "iPhoneFull": "https://s3.onthesnow.com/images/trailmaps/colorado/arapahoe-basin-ski-area/20180813205828/iphonefull.jpg",
+    "iPhoneThumb": "https://s3.onthesnow.com/images/trailmaps/colorado/arapahoe-basin-ski-area/20180813205828/iphonethumb.jpg",
+    "size": 3998419,
+    "dateModifiedEpoch": 1534193918,
+    "shortInfo": "<h2>Arapahoe Basin Ski Area Trail Map</h2>\r\n<p>View the trails and lifts at Arapahoe Basin Ski Area with our interactive trail map of the ski resort. Plan out your day before heading to Arapahoe Basin Ski Area or navigate the mountain while you're at the resort with the latest Arapahoe Basin Ski Area trail maps. </p>\r\n<p><strong>Click on the image below</strong> to see Arapahoe Basin Ski Area Trail Map in a high quality.</p>",
+    "longInfo": "<h2>Arapahoe Basin Ski Area Trail Map</h2>\r\n<p>View the trails and lifts at Arapahoe Basin Ski Area with our interactive trail map of the ski resort. Plan out your day before heading to Arapahoe Basin Ski Area or navigate the mountain while you're at the resort with the latest Arapahoe Basin Ski Area trail maps. </p>\r\n<p><strong>Click on the image below</strong> to see Arapahoe Basin Ski Area Trail Map in a high quality.</p>"
+  },
+  "openFlag": 1
+}

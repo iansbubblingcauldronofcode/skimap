@@ -1,0 +1,2392 @@
+// www.onthesnow.com/_next/data/1.0.4_en-US/colorado/arapahoe-basin-ski-area/historical-snowfall.jsonc
+{
+  "pageProps": {
+    "type": "resort",
+    "route": "historical-snowfall",
+    "pathInfo": {
+      "uuid": "20",
+      "title": "Arapahoe Basin Ski Area",
+      "title_short": "Arapahoe Basin",
+      "title_original": "Arapahoe Basin Ski Area",
+      "slug": "arapahoe-basin-ski-area",
+      "region": "colorado",
+      "region_id": "251",
+      "domain": null
+    },
+    "resort": {
+      "uuid": "20",
+      "title": "Arapahoe Basin Ski Area",
+      "region": {
+        "uuid": "251",
+        "slug": "colorado",
+        "group": "429",
+        "title": "Colorado",
+        "country": "United States",
+        "country_code": "USA",
+        "adCode": "snow/USA_Rock/CO",
+        "state": "CO",
+        "domain": null
+      },
+      "image": "https://img2.onthesnow.com/image/xl/54/arapahoe_basin_resort_hero_image_2_540826.jpg",
+      "smallImage": "https://img2.onthesnow.com/image/la/54/arapahoe_basin_resort_hero_image_2_540826.jpg",
+      "video": null,
+      "website": null,
+      "phone": null,
+      "isPartner": false,
+      "twitter": null,
+      "liftsUrl": null,
+      "rentalUrl": "https://www.arapahoebasin.com/to-do/rentals/",
+      "lessonsUrl": null
+    },
+    "snowfallInfoMonthly": [
+      {
+        "date": "2023-11-03",
+        "totalSnow": 83.12727272727273,
+        "snowDays": 10,
+        "baseDepth": 50.29694545454545,
+        "summitDepth": 51.11007792207793,
+        "maxBaseDepth": 96.52,
+        "biggestSnowfall": 30.48
+      },
+      {
+        "date": "2023-12-03",
+        "totalSnow": 110.14363636363636,
+        "snowDays": 13,
+        "baseDepth": 75.29532727272726,
+        "summitDepth": 75.00691572102511,
+        "maxBaseDepth": 137.16,
+        "biggestSnowfall": 48.26
+      },
+      {
+        "date": "2023-01-03",
+        "totalSnow": 98.59818181818183,
+        "snowDays": 12,
+        "baseDepth": 109.65395454545455,
+        "summitDepth": 109.22179795732632,
+        "maxBaseDepth": 198.12,
+        "biggestSnowfall": 40.64
+      },
+      {
+        "date": "2023-02-03",
+        "totalSnow": 112.26799999999999,
+        "snowDays": 14,
+        "baseDepth": 136.93225999999999,
+        "summitDepth": 136.93219476372923,
+        "maxBaseDepth": 205.74,
+        "biggestSnowfall": 38.1
+      },
+      {
+        "date": "2023-03-03",
+        "totalSnow": 114.3,
+        "snowDays": 13,
+        "baseDepth": 155.21529999999998,
+        "summitDepth": 154.25327822580647,
+        "maxBaseDepth": 251.46,
+        "biggestSnowfall": 35.56
+      },
+      {
+        "date": "2023-04-03",
+        "totalSnow": 101.34599999999999,
+        "snowDays": 13,
+        "baseDepth": 144.5976,
+        "summitDepth": 145.03790769230767,
+        "maxBaseDepth": 228.6,
+        "biggestSnowfall": 38.1
+      },
+      {
+        "date": "2023-05-03",
+        "totalSnow": 85.09,
+        "snowDays": 10,
+        "baseDepth": 145.1394,
+        "summitDepth": 145.1261127334465,
+        "maxBaseDepth": 215.9,
+        "biggestSnowfall": 40.64
+      },
+      {
+        "date": "2023-06-03",
+        "totalSnow": 2.54,
+        "snowDays": 1,
+        "baseDepth": 91.90850999999999,
+        "summitDepth": 81.48511154274576,
+        "maxBaseDepth": 182.88,
+        "biggestSnowfall": 10.16
+      }
+    ],
+    "snowfallInfoAnnual": [
+      {
+        "date": "2012-01-01",
+        "totalSnow": 713.7400000000001,
+        "snowDays": 93,
+        "baseDepth": 90.10884999999999,
+        "summitDepth": 89.3812978110599,
+        "maxBaseDepth": 175.26,
+        "biggestSnowfall": 35.56
+      },
+      {
+        "date": "2013-01-01",
+        "totalSnow": 1061.72,
+        "snowDays": 115,
+        "baseDepth": 141.52265,
+        "summitDepth": 139.01833145587983,
+        "maxBaseDepth": 228.6,
+        "biggestSnowfall": 38.1
+      },
+      {
+        "date": "2014-01-01",
+        "totalSnow": 797.56,
+        "snowDays": 98,
+        "baseDepth": 99.4477,
+        "summitDepth": 99.90283813364056,
+        "maxBaseDepth": 157.48,
+        "biggestSnowfall": 48.26
+      },
+      {
+        "date": "2015-01-01",
+        "totalSnow": 736.5999999999999,
+        "snowDays": 88,
+        "baseDepth": 122.6927,
+        "summitDepth": 122.69273637374859,
+        "maxBaseDepth": 203.2,
+        "biggestSnowfall": 38.1
+      },
+      {
+        "date": "2016-01-01",
+        "totalSnow": 876.3,
+        "snowDays": 89,
+        "baseDepth": 134.1429625,
+        "summitDepth": 131.72903081797236,
+        "maxBaseDepth": 198.12,
+        "biggestSnowfall": 45.72
+      },
+      {
+        "date": "2017-01-01",
+        "totalSnow": 627.3799999999999,
+        "snowDays": 70,
+        "baseDepth": 100.596575,
+        "summitDepth": 99.06195084485405,
+        "maxBaseDepth": 185.42,
+        "biggestSnowfall": 35.56
+      },
+      {
+        "date": "2018-01-01",
+        "totalSnow": 835.66,
+        "snowDays": 99,
+        "baseDepth": 142.3965375,
+        "summitDepth": 142.39651294567062,
+        "maxBaseDepth": 251.46,
+        "biggestSnowfall": 35.56
+      },
+      {
+        "date": "2019-01-01",
+        "totalSnow": 439.42,
+        "snowDays": 57,
+        "baseDepth": 86.18491249999998,
+        "summitDepth": 83.50596253939564,
+        "maxBaseDepth": 175.26,
+        "biggestSnowfall": 38.1
+      },
+      {
+        "date": "2020-01-01",
+        "totalSnow": 599.4399999999999,
+        "snowDays": 87,
+        "baseDepth": 98.6693375,
+        "summitDepth": 97.35401056067589,
+        "maxBaseDepth": 157.48,
+        "biggestSnowfall": 22.86
+      },
+      {
+        "date": "2021-01-01",
+        "totalSnow": 469.90000000000003,
+        "snowDays": 66,
+        "baseDepth": 119.87491250000001,
+        "summitDepth": 115.1753574970347,
+        "maxBaseDepth": 182.88,
+        "biggestSnowfall": 40.64
+      },
+      {
+        "date": "2022-01-01",
+        "totalSnow": 208.27999999999997,
+        "snowDays": 31,
+        "baseDepth": 80.1807,
+        "summitDepth": 85.1095084485407,
+        "maxBaseDepth": 121.92,
+        "biggestSnowfall": 20.32
+      },
+      {
+        "date": "Average",
+        "totalSnow": 670,
+        "snowDays": 82,
+        "baseDepth": 111,
+        "summitDepth": 110,
+        "maxBaseDepth": 186,
+        "biggestSnowfall": 37
+      }
+    ],
+    "relatedNews": null,
+    "navigation": {
+      "link": "snowplanner",
+      "tab": "trip_planning",
+      "head": "trip_planning"
+    },
+    "analytics": {
+      "templateName": "Resort Historical Snowfall",
+      "templateId": "3.2.5"
+    },
+    "adTKey": "resort historical",
+    "hero": {
+      "title": "resort.historicalSnowfall.heroTitle",
+      "showVideo": false
+    },
+    "shouldShare": false,
+    "meta": {
+      "description": "Resort.historical.description",
+      "redirectTo": null,
+      "title": "Resort.historical.title",
+      "dynamic": {
+        "snow": {
+          "last24": 2.54
+        }
+      }
+    },
+    "@serverUpdate": "2023-01-02 15:59:03 +00:00",
+    "_nextI18Next": {
+      "initialI18nStore": {
+        "en-US": {
+          "common": {
+            "nav": {
+              "global": {
+                "snowReports": "Snow Reports",
+                "planning": "Trip Planning",
+                "magazine": "Magazine",
+                "searchBox": "Search",
+                "ambassadors": "Ambassadors",
+                "newsletter": "Newsletter"
+              },
+              "tab": {
+                "snow": "Snow",
+                "tripPlanning": "Trip Planning",
+                "snowReport": "Snow Report",
+                "weather": "Weather",
+                "cams": "Cams",
+                "fhr": "First Hand Reports",
+                "overview": "Overview",
+                "reviews": "Reviews",
+                "trailMap": "Trail Map",
+                "snowPlanner": "Snow Planner",
+                "liftAccess": "Lift Access",
+                "lodging": "Lodging",
+                "openResorts": "Open Resorts",
+                "ClosingDates": "Closing Dates",
+                "OpenDates": "Open Dates",
+                "liftTickets": "Lift Tickets"
+              },
+              "footer": {
+                "contactOts": "Contact OnTheSnow",
+                "advertise": "Advertise",
+                "privacyPolicy": "Privacy Policy",
+                "TermsConditions": "Terms and Conditions",
+                "oneTrust": "Do Not Sell my Personal Information",
+                "copyrightMncAllRightsReserved": "Copyright © 1995-2022 Mountain News LLC. All rights reserved.",
+                "legalNotice": "Legal Notice",
+                "newsAmbassadors": "Meet Our Ambassadors",
+                "newsletter": "Sign Up For Our Newsletter"
+              }
+            },
+            "common": {
+              "dash": "-",
+              "na": "N.A.",
+              "relatedRegions": "Related:",
+              "nearbyResorts": "Nearby:",
+              "premierPartner": "Premier Partner",
+              "base": "Base",
+              "summit": "Summit",
+              "resortName": "Resort Name",
+              "resortShortName": "{{resort}}",
+              "dayMonday": "Monday",
+              "dayTuesday": "Tuesday",
+              "dayWednesday": "Wednesday",
+              "dayThursday": "Thursday",
+              "dayFriday": "Friday",
+              "daySaturday": "Saturday",
+              "daySunday": "Sunday",
+              "dayYesterday": "Yesterday",
+              "dayToday": "Today",
+              "dayTomorrow": "Tomorrow",
+              "dayMon": "Mon",
+              "dayTue": "Tue",
+              "dayWed": "Wed",
+              "dayThu": "Thu",
+              "dayFri": "Fri",
+              "daySat": "Sat",
+              "daySun": "Sun",
+              "monthJanuary": "January",
+              "monthFebruary": "February",
+              "monthMarch": "March",
+              "monthApril": "April",
+              "monthMay": "May",
+              "monthJune": "June",
+              "monthJuly": "July",
+              "monthAugust": "August",
+              "monthSeptember": "September",
+              "monthOctober": "October",
+              "monthNovember": "November",
+              "monthDecember": "December",
+              "monthJan": "Jan",
+              "monthFeb": "Feb",
+              "monthMar": "Mar",
+              "monthApr": "Apr",
+              "monthJun": "Jun",
+              "monthJul": "Jul",
+              "monthAug": "Aug",
+              "monthSep": "Sep",
+              "monthOct": "Oct",
+              "monthNov": "Nov",
+              "monthDec": "Dec",
+              "purchase": "Purchase",
+              "timeHour": "Hour",
+              "timeHours": "Hours",
+              "timeMinute": "Minute",
+              "timeMinutes": "Minutes",
+              "timeDay": "Day",
+              "timeDays": "Days",
+              "timeHourAgo": "{{value}} Hour ago",
+              "timeHoursAgo": "{{value}} Hours ago",
+              "timeHoursMinutesAgo": "{{value}} Hours {{value}} minutes ago",
+              "timeMinuteAgo": "{{value}} Minute ago",
+              "timeMinutesAgo": "{{value}} Minutes ago",
+              "timeDayAgo": "{{value}} Day ago",
+              "timeDaysAgo": "{{value}} Days ago",
+              "timeYearAgo": "{{value}} Year ago",
+              "timeYearsAgo": "{{value}} Years ago",
+              "seeAllCams": "See All Cams",
+              "featuredSnowreport": "Featured Snow Report",
+              "loadMore": "Load More",
+              "mph": "mph",
+              "kmh": "km/h",
+              "searchButton": "Search",
+              "watchVideo": "Watch video",
+              "website": "Website",
+              "windSpeed": "Wind Speed",
+              "forecastedSnow": "Forecasted Snow",
+              "hourlyWeatherForecast": "Hourly Weather Forecast for {{date}}",
+              "dailyWeatherForecast": "Daily Weather Forecast",
+              "shareThis": "Share This:",
+              "twitterShare": "\"${title} ${link} via @OnTheSnow\"",
+              "sitemapHeader": "Sitemap",
+              "sitemapAdditionalRegions": "Additional Regions",
+              "relatedNews": "Related News",
+              "units": "Units",
+              "unitsMetric": "Metric",
+              "unitsImperial": "Imperial",
+              "viewAllNearbyResorts": "View All Nearby Resorts"
+            },
+            "resort": {
+              "skiReport": {
+                "heroTitle": "{{resort}} Snow Report",
+                "seoTitle": "Snow & Ski Conditions {{resort}}",
+                "seoText": "Before putting on your skis, check the snow conditions at {{resort}} one last time.\r\nHeight and quality of the snow, date of the last snowfall, today's weather, temperature, wind, visibility, state of the ski area ... all the information you are looking for to have a great day of skiing. Please note {{resort}} snow reports are sourced directly from the ski resort and are only recorded during the official ski season's opening to closing dates.",
+                "lastUpdated": "Snow Report Last Updated:",
+                "snowDepth": "Snow depth",
+                "surfacePowder": "Powder",
+                "surfacePackedPowder": "Packed Powder",
+                "surfaceMachineGroomed": "Machine Groomed",
+                "surfaceHardPacked": "Hard Packed",
+                "surfaceMachineMade": "Machine Made",
+                "surfaceSpringSnow": "Spring Snow",
+                "surfaceWetSnow": "Wet Snow",
+                "surfaceCornSnow": "Corn Snow",
+                "surfaceVariableConditions": "Variable Conditions",
+                "open": "Open",
+                "weekendsOnly": "Weekends Only",
+                "temporarilyClosed": "Temporarily Closed",
+                "noReportAvailable": "No Report Available",
+                "closed": "Closed",
+                "permanentlyClosed": "Permanently Closed",
+                "liftOpen": "Lifts Open",
+                "runsOpen": "Runs Open",
+                "24hSnowfall": "24 Hour Snowfall",
+                "72hSnowfall": "72 Hour Snowfall",
+                "todayTemp": "Today's Forecast",
+                "highLow": "High/Low",
+                "fullForecast": "Full Forecast",
+                "provideFeedback": "Provide Feedback",
+                "whatYouThink": "What do you think?",
+                "isHelpful": "This is helpful",
+                "conditionsWrong": "The base or summit conditions are wrong",
+                "snowfallWrong": "The recent snowfall is wrong",
+                "openLiftsTrailsWrong": "The open lifts & trails are wrong",
+                "weatherWrong": "The weather is wrong",
+                "isNotHelpful": "This isn't helpful",
+                "commentSuggestion": "Comments or suggestions?",
+                "optionalText": "Optional",
+                "send": "Send",
+                "cancel": "Cancel",
+                "projectedClosing": "Projected Closing",
+                "projectedOpening": "Projected Opening",
+                "SnowreporterComments": "Snow Reporter Comments",
+                "recentSnowfall": "Recent Snowfall",
+                "historicalSnowfall": "Historical Snowfall",
+                "last7Days": "Last 8 Days",
+                "forecastedSnow": "Forecasted Snow",
+                "fullWeatherForecast": "Full Weather Forecast",
+                "terrain": "Terrain",
+                "terrainOverview": "Terrain Overview",
+                "openBeginnerRuns": "Beginner Runs Open",
+                "openIntermediateRuns": "Intermediate Runs Open",
+                "openAdvancedRuns": "Advanced Runs Open",
+                "openExpertRuns": "Expert Runs Open",
+                "acresOpen": "Acres Open",
+                "returnBySki": "Return By Ski",
+                "returnBySkiYes": "Yes",
+                "returnBySkiNo": "No",
+                "returnBySkiPartially": "Partial",
+                "activities": "Additional Activities",
+                "parksOpen": "Parks Open",
+                "pipesOpen": "Pipes Open",
+                "tubingLanes": "Tubing Lanes",
+                "nordicOpen": "Nordic Open",
+                "nordicSkategroomed": "Nordic Skategroomed",
+                "nordicTrackset": "Nordic Trackset",
+                "firstHandReport": "First Hand Report",
+                "allFirstHandReports": "All First Hand Reports",
+                "liftHoursOperation": "Lift Hours of Operation",
+                "liftOperatingHours": "Lift Operating Hours",
+                "nightSkiing": "Night Skiing",
+                "kmOpen": "Km Open",
+                "surfaceNotAvailable": "N.A.",
+                "lastSnowfallDate": "Last Snowfall Date",
+                "toolTipTemperature": "Temperature",
+                "toolTipNordic": "Nordic",
+                "toolTipPipes": "Pipes",
+                "toolTipParks": "Parks & Pipes",
+                "surfaceBareSpots": "Bare Spots",
+                "kmPercentOpen": "% Open"
+              },
+              "weather": {
+                "heroTitle": "{{resort}} Weather Forecast",
+                "seoTitle": "{{resort}} Weather",
+                "seoText": "What’s the weather in {{resort}} today? See an overview of the current {{resort}} weather, including high and low temperatures for the day and wind mph at the base and summit of the mountain. Scroll to the right to see {{resort}} weather forecasts and wind for the next seven days. Tab over to Hour by Hour for an hourly {{resort}} weather forecast breakdown for a detailed {{resort}} weather and snow forecast for the next seven days.",
+                "daily": "Daily",
+                "hourly": "Hourly",
+                "historicalSnowfall": "Historical Snowfall",
+                "chanceOfFlurries": "Chance of Flurries",
+                "rain": "Rain",
+                "chanceOfSleet": "Chance of Sleet",
+                "snow": "Snow",
+                "chanceOfThunderstorms": "Chance of Thunderstorms",
+                "flurries": "Flurries",
+                "fog": "Fog",
+                "hazy": "Hazy",
+                "cloudy": "Cloudy",
+                "mostlySunny": "Mostly Sunny",
+                "partlyCloudy": "Partly Cloudy",
+                "partlySunny": "Partly Sunny",
+                "sleet": "Sleet",
+                "sunny": "Sunny",
+                "thunderstorms": "Thunderstorms",
+                "unknown": "Unknown",
+                "hurricane": "Hurricane",
+                "overcast": "Overcast",
+                "slightlyCloudy": "Slightly cloudy",
+                "lightRain": "Light Rain",
+                "fair": "Fair",
+                "rainShowers": "Rain Showers",
+                "sleetShowers": "Sleet Showers",
+                "snowShowers": "Snow Showers",
+                "toolTipUpdated": "Updated"
+              },
+              "cams": {
+                "heroTitle": "{{resort}} Webcams",
+                "seoTitle": "Live {{resort}} Cams",
+                "seoText": "Planning a {{resort}} ski trip or just heading up for the day? View live ski conditions, snow totals and weather from the slopes right now with {{resort}} webcams. Get a sneak peek of the mountain with each cam stationed at various locations. Visit our overview page for more about {{resort}} ski resort."
+              },
+              "fhr": {
+                "heroTitle": "{{resort}} Firsthand Reports",
+                "seoTitle": "Skier Comments & Photos from the Slopes of {{resort}}",
+                "seoText": "What are the ski conditions like right now at {{resort}}? Read commentaries and see photos from fellow skiers and riders sharing their on-mountain experiences. Check back daily for new user-generated firsthand reports from {{resort}} to see ski conditions, new snow and general stoke from the slopes along with images. Firsthand reports are submitted via the OnTheSnow Ski & Snow Report App. Download the free app to be part of the conversation."
+              },
+              "overview": {
+                "heroTitle": "{{resort}} Ski Resort",
+                "overallRegion": "Overall in {{region}}",
+                "allMtnTerrainIRegion": "All Mountain Terrain in {{region}}",
+                "familyFriendlyRegion": "Family Friendly in {{region}}",
+                "terrainParkRegion": "Terrain Park in {{region}}",
+                "beginnerRegion": "Beginner Terrain in {{region}}",
+                "apresSkiRegion": "Apres Ski in {{region}}",
+                "smallSkiAreaRegion": "Small Ski Area in {{region}}",
+                "intermediateRegion": "Intermediate Terrain in {{region}}",
+                "expertRegion": "Expert Terrain in {{region}}",
+                "overviewTab": "Overview",
+                "insideScoopTab": "Inside Scoop",
+                "restaurantTab": "Restaurants",
+                "terrainTab": "Terrain",
+                "transportationTab": "Transportation",
+                "overviewTabDescription": "Here will be a respective Resort description from its Overview Section loaded from current CMS",
+                "readMore": "Read more",
+                "showLess": "Show less",
+                "bestTimeForSnow": "Best Time for Snow",
+                "snowPlanner": "Snow Planner",
+                "currentTerrainReport": "Current Terrain Report",
+                "beginnersRuns": "Beginners Runs",
+                "intermediateRuns": "Intermediate Runs",
+                "advancedRuns": "Advanced Runs",
+                "expertRuns": "Expert Runs",
+                "runsInTotal": "Runs in Total",
+                "terrainParks": "Terrain Parks",
+                "longestRun": "Longest Run",
+                "skiableTerrain": "Skiable Terrain",
+                "nightSkiing": "Night Skiing",
+                "snowMaking": "Snow Making",
+                "totalLifts": "Total Lifts: {{value}}",
+                "gondolasTrams": "Gondolas & Trams",
+                "eightPersonLifts": "Eight Person Lifts",
+                "highSpeedSixes": "High Speed Sixes",
+                "highSpeedQuads": "High Speed Quads",
+                "quadChairs": "Quad Chairs",
+                "tripleChairs": "Triple Chairs",
+                "doubleChairs": "Double Chairs",
+                "surfaceLifts": "Surface Lifts",
+                "elevation": "Elevation",
+                "verticalDrop": "Vertical Drop",
+                "importantDates": "Important Dates",
+                "projectedDaysOpen": "Projected Days Open",
+                "daysOpenLastYear": "Days Open Last Year",
+                "yearsOpen": "Years Open",
+                "averageSnowfall": "Average Snowfall",
+                "contactInfo": "Contact Information",
+                "positionPrefix": "# {{value}}"
+              },
+              "historicalSnowfall": {
+                "heroTitle": "{{resort}} Historical Snowfall",
+                "seoTitle": "{{resort}} Snow History",
+                "seoText": "How much snow did {{resort}} get this ski season and over the last several seasons? Check out {{resort}} historical snowfall using the grid below. This page offers average {{resort}} snow stats such as Average Snowfall, Max Base Depth, Biggest Snowfall, Snowfall Days and Average Base Depth for each month, and if you click on the Annual Tab we offer all years since the 2012-2013 season. If you are analyst looking for more granular daily data please contact us to learn about our data distribution options.",
+                "monthly": "Monthly",
+                "annual": "Annual",
+                "totalSnowfall": "Total Snowfall",
+                "snowfallDay": "Snowfall Days",
+                "toDate": "To Date",
+                "avgBaseDepth": "Average Base Depth",
+                "avgSummitDepth": "Average Summit Depth",
+                "maxBaseDepth": "Max Base Depth",
+                "biggestSnowfall": "Biggest Snowfall",
+                "average": "Average",
+                "monthTabTitle": "Average Monthly Snowfall at {{resort}}",
+                "annualTabTitle": "Average Annual Snowfall at {{resort}}"
+              },
+              "trailMap": {
+                "heroTitle": "{{resort}} Trail Map",
+                "seoTitle": "{{resort}} Trail Map",
+                "seoText": "View the trails and lifts at {{resort}} with our interactive trail map of the ski resort. Plan out your day before heading to {{resort}} or navigate the mountain while you're at the resort with the latest {{resort}} trail maps.\r\nClick on the image below to see {{resort}} Trail Map in a high quality.",
+                "operatingStatus": "Operating status:",
+                "FullSnowReport": "Full Snow Report"
+              },
+              "reviews": {
+                "heroTitle": "{{resort}} Resort Reviews",
+                "seoTitle": "Reviews for {{resort}}",
+                "seoText": "Read skier and snowboarder-submitted reviews on {{resort}} that rank the ski resort and mountain town on a scale of one to five stars for attributes such as terrain, nightlife and family friendliness. See how {{resort}} stacks up in the reviews, on and off the slopes, from skiing and family activities to the après scene. Read up on pros, cons and other comments in reviews left by fellow skiers and riders. Don't forget to submit your own {{resort}} review! Scroll to the bottom of this page to let other travelers know about your skiing and resort experience.",
+                "OverallRatingHelpText": "A ski resort's overall star rating displayed here is not calculated based on a simple average but takes several factors, including the age of a review, into account.",
+                "total": "Total",
+                "overallValue": "Overall Value",
+                "totalReviews": "{{value}} Total Reviews:",
+                "starReviews5": "5 Star Reviews ({{value}})",
+                "starReviews4": "4 Star Reviews ({{value}})",
+                "starReviews3": "3 Star Reviews ({{value}})",
+                "starReviews2": "2 Star Reviews ({{value}})",
+                "starReviews1": "1 Star Reviews ({{value}})",
+                "fullReview": "Full Review",
+                "lessReview": "Less Review",
+                "rateThisResortTitle": "Rate this Resort",
+                "allReviews": "All Reviews",
+                "orderBy": "Order by:",
+                "mostRecent": "Most recent",
+                "highestRating": "Highest rating",
+                "lowestRating": "Lowest rating",
+                "rateThisResortText": "Share your experience at resort {{resort}} to help other skiers.",
+                "selectOverallRating": "Select your Overall Rating",
+                "pros": "Pros",
+                "cons": "Cons",
+                "fullReviewText": "Full Review:",
+                "next": "Next",
+                "back": "Back",
+                "submit": "Submit",
+                "prosHelpText": "Example: Great All Mountain Terrain",
+                "consHelpText": "Example: Town far from Resort",
+                "reviewHelpText": "Example: Wish they would open upper peak 6 and 8, otherwise we'll vacation to copper mtn. Wish they would open upper peak 6 and 8, otherwise we'll vacation to copper mtn.",
+                "firstName": "First Name",
+                "lastName": "Last Name",
+                "emailAddress": "Email Address",
+                "dateVisited": "Date visited:",
+                "thankYouSubscrMessage": "Thank You. Would you like to receive {{resort}} Powder Alerts and our Newsletter in your Inbox?",
+                "noThankYouButton": "No thank you",
+                "yesPleaseButton": "Yes please",
+                "toolTip1Star": "Poor",
+                "toolTip2Stars": "Fair",
+                "toolTip3Stars": "Average",
+                "toolTip4Stars": "Good",
+                "toolTip5Stars": "Excellent"
+              },
+              "lodging": {
+                "heroTitle": "{{resort}} Lodging",
+                "allHotelsHeading": "All {{resort}} Hotels",
+                "sortBy": "Sort by:",
+                "price": "Price",
+                "name": "Name",
+                "starRating": "Star Rating",
+                "viewDeal": "View Deal",
+                "viewAllDeals": "View all {{value}} Deals",
+                "noResults": "Unfortunately No Accommodations Available For This Resort"
+              },
+              "liftTickets": {
+                "adult": "Adult",
+                "child": "Child",
+                "weekday": "Weekday",
+                "purchase": "Purchase",
+                "currencyText": "*All prices in",
+                "specialNote": "Special Note",
+                "seoTitle": "{{resort}} Lift Tickets",
+                "seoText": "How much is a lift ticket at {{resort}}? Find {{resort}} lift ticket prices for single day, half day and multi-day lift tickets wherever that information is available and provided by the ski resort. Navigate to Season Passes using the button below to see the various ski pass options that {{resort}} offers returning skiers and riders. {{resort}} lift ticket prices are provided to OnTheSnow or sourced directly from the ski resort, who is responsible for its accuracy. Lift ticket prices are often dynamic and subject to change. Reach out to {{resort}} or visit their website for the latest lift ticket pricing, deals and discounts or to purchase lift tickets and season passes.",
+                "seasonPasses": "{{resort}} Season Passes",
+                "heroTitle": "{{resort}} Lift Tickets 2022/23",
+                "dailyTickets": "{{resort}} Daily Lift Tickets",
+                "passSeoInfoTitle": "{{resort}} Ski Pass and Lift Ticket Info",
+                "passSeoInfoText": "<h3><strong>{{resort}} Season Pass Info</strong></h3>\r\n<p>How many times will you visit {{resort}} resort? Even if planning on skiing just a few times at {{resort}}, a season pass is often the best choice for skiers and riders. A season pass typically pays for itself after just a few days on the mountain. Skiers can choose from various season passes.</p>\r\n<p>Season Pass holders get the best lift ticket price and tons of benefits.</p>\r\n<p>Alternatively, consider a pass from one of the major pass companies. Check out our season pass buying guides below.</p>\r\n<p><a href=\"https://www.onthesnow.com/news/epic-pass-buyers-guide/\">Epic Pass</a></p>\r\n<p><a href=\"https://www.onthesnow.com/news/ikon-pass-buyers-guide/\">IKON</a></p>\r\n<p><a href=\"https://www.onthesnow.com/news/mountain-collective-buyers-guide/\">Mountain Collective</a></p>\r\n<p><a href=\"https://www.onthesnow.com/news/indy-pass-buyers-guide/\">Indy Pass</a><br /><br /></p>\r\n<h3><strong>{{resort}} Daily Lift Tickets Info</strong></h3>\r\n<p>Get ready for the 2022-2023 ski season with an estimated start date of {{opendate}} and a tentative end date of {{closedate}}. With the {{runs}} slopes and {{lifts}} lifts, ski pass holders have a lot to get excited about for the upcoming ski season.</p>\r\n<p>Daily Lift Tickets for the 2022-2023 ski season vary depending on whether you buy your lift ticket before the season starts, during the peak season or at the end of the season. Other factors include age and the number of days you plan on skiing. Some ski resorts offer dynamic lift ticket pricing, which means the price changes depending on the time of year and how far in advance you buy the lift ticket.</p>\r\n<p><strong>Our tip:</strong> You can buy cheaper ski passes before the season begins and toward the end of the season, during what’s considered spring skiing. If the ski resort offers dynamic ski pass prices, it is worth buying a ski pass in advance. Typically, you can also save money by buying ski passes online, rather than paying them at the ticket window on the day you plan on skiing.</p>\r\n<p>Read more on <a href=\"https://www.onthesnow.com/news/cheap-thrills-best-ways-to-find-discounted-lift-tickets\">the best ways to find discounted lift tickets</a>.</p>\r\n<h3><strong>Where to purchase Lift Tickets?</strong></h3>\r\n<p>Lift tickets can be purchased online through a resort website, or in person at the ski resort’s ticket window. For detailed information call the ski resort at {{phone}}.</p>\r\n<h3><strong>The Deals</strong></h3>\r\n<p>Purchasing your tickets in advance is the best way to save money. We recommend checking out the resort’s special offers page for a variety of deals on lift tickets, lodging, retail, and more. Additionally, ski resorts often send special offers to their email subscribers.</p>",
+                "weekend": "Weekend",
+                "senior": "Senior",
+                "junior": "Junior",
+                "expirationDate": "Price expires:",
+                "validSeason": "Valid for:",
+                "halfDay": "Half Day",
+                "2Day": "Two day pass",
+                "6Day": "Week Pass",
+                "lastUpdated": "Last Updated:"
+              },
+              "seasonPass": {
+                "disclaimer": "Last update of prices {{passlastupdated}}. Disclaimer: Lift ticket prices are provided to OnTheSnow directly by the mountain resorts and those resorts are responsible for their accuracy. Season prices and daily ticket prices are subject to change. Call resort for updates."
+              }
+            },
+            "tripWidget": {
+              "planYourTrip": "Plan Your Trip",
+              "resortLodging": "{{resort}} Lodging",
+              "liftAccess": "Lift Access",
+              "skiRental": "Ski Rental",
+              "checkIn": "Check In",
+              "checkOut": "Check Out",
+              "skiLessons": "Ski Lessons",
+              "skiLodging": "Ski Lodging",
+              "partnerLabel": "OnTheSnow recommended partner",
+              "schoolBooking": "No. 1 for {{resort}} ski school bookings",
+              "checkYetiBenefits1": "500+ ski resorts in Europe",
+              "checkYetiBenefits2": "20,000+ customer reviews",
+              "checkYetiBenefits3": "Up to 15% discount",
+              "searchOffers": "Search Offers",
+              "skiRentalLabel": "No. 1 for {{resort}} ski rentals",
+              "skiRentalBenefits1": "Best prices online: Up to -65%",
+              "skiRentalBenefits2": "No booking fees",
+              "skiRentalBenefits3": "Special group offer",
+              "regionLodging": "{{region}} Ski Lodging"
+            },
+            "region": {
+              "skiReport": {
+                "heroTitle": "{{region}} Snow Report",
+                "depictedResort": "{{resort}}, {{region}}",
+                "seoTitle": "Snow in {{region}}",
+                "seoText": "The table below shows the snow cover in {{region}}. \r\nFor each ski resort you will find the essential information from its snow report: snow depths, open slopes and lifts, date of the last snowfall, today's weather. All the information you need to choose the right ski resort for you in {{region}}. Click on the name of a resort to obtain its complete snow report. You'll never have to wonder if it's snowing in {{region}} again.",
+                "webcamSnowReport": "Webcam Snow Report",
+                "lastSnowfall": "Last Snowfall",
+                "snowfall": "Snowfall",
+                "baseDepth": "Base Depth",
+                "openTrails": "Open Trails",
+                "openLifts": "Open Lifts",
+                "opening": "Opening {{date}}",
+                "snowfall.24h": "Snowfall 24h",
+                "snowfall-24h": "Snowfall 24h",
+                "snowfall-24h-abb": "24h",
+                "base-abb": "Base",
+                "trails-abb": "Trails",
+                "percentageOpen": "% Open"
+              },
+              "cams": {
+                "heroTitle": "{{region}} Webcams",
+                "seoTitle": "Live {{region}} Cams",
+                "seoText": "Planning a {{region}} ski trip or just heading up for the day? See who got the most snow in {{region}}, and view live ski conditions, snow totals and weather from the slopes right now with webcams from ski resorts. Don't leave your perfect powder day to chance, see what the {{region}} weather, ski conditions and snow totals really look like. Click a cam below to see a detailed view of that webcam and other cams from the ski resort, or visit our overview page for more about {{region}} ski resorts.",
+                "textSnowReport": "Text Snow Report"
+              },
+              "resortGuide": {
+                "heroTitle": "{{region}} Ski Resorts",
+                "SeeFullFAQ": "Click to see the full FAQ",
+                "topRatedResorts": "Top Rated Ski Resorts",
+                "overallTitle": "Overall",
+                "allMtnTerrainTitle": "All Mountain Terrain",
+                "familyFriendlyTitle": "Family Friendly",
+                "terrainParkTitle": "Terrain Park",
+                "beginnerTitle": "Beginner",
+                "apresSkiTitle": "Apres Ski",
+                "smallSkiAreaTitle": "Small Ski Area",
+                "intermediateTitle": "Intermediate",
+                "expertTitle": "Expert",
+                "overallDescription": "A ski resort with terrain for all levels and closeby lodging, lots of apres ski activities and a good ski school make for great vacations on snow.",
+                "allMtnTerrainDescription": "Ski or ride it all. Groomed slopes, clusters of trees, deep powder, rock hard snow, even the back bowls. The whole mountain is your oyster.",
+                "familyFriendlyDescription": "Think “whole family.” Terrain for all skill levels; on-snow play parks;  lessons geared to young children; off-slope fun; an easy-to-get-to family meet-up place",
+                "terrainParkDescription": "Look at it as a “snow park” with terrain and special features so both skiers and snowboarders can learn and perform tricks.",
+                "beginnerDescription": "Beginners have either never skied before or are just starting out. Be sure to take lessons from a ski/snowboard instructor, not a well-meaning friend of family member.",
+                "apresSkiDescription": "When the sun goes down, the fun keeps on rolling. Bars, restaurants, soaking in the hotel hot tub work wonders \"after ski.\"",
+                "smallSkiAreaDescription": "Smaller ski resorts have less terrain, but usually enough variety for a fun day or two. Most have night skiing and are generally close to home. A perfect place to learn.",
+                "intermediateDescription": "You’re gaining  confidence. You can ski all green and many blue runs. You got that “parallel” thing down pat most of the time. You’re anxious to get even better.",
+                "expertDescription": "Experts know no real bounds. Tackle it all. Experts will want to look for resorts with plenty of âblack diamondâ terrain to continually test and refine skills.",
+                "reviews": "{{value}} Reviews",
+                "allResorts": "All Resorts",
+                "viewAllResorts": "View All Resorts",
+                "FaqTitle": "{{region}} Ski Resorts FAQ",
+                "FaqOpenAll": "Open all",
+                "regionTopRatedResorts": "Top Rated {{region}} Ski Resorts",
+                "seoTitle": "Most Popular {{region}} Ski Resorts",
+                "seoText": "Planning a {{region}} ski trip? Browse our collection of skier and snowboarder-submitted reviews for {{region}} ski resorts to see which mountains claimed the top spot in each category. {{region}} reviews rank ski areas on a scale of one to five stars in the following categories: Overall Rating, All-Mountain Terrain, Nightlife, Terrain Park and Family Friendly. See how your favorite {{region}} ski area stacks up among the top rated in terms of skiing and après."
+              },
+              "openResorts": {
+                "heroTitle": "Open Ski Resorts in {{region}}",
+                "seoTitle": "Open Ski Resorts in {{region}}",
+                "seoText": "Which ski resorts are currently open in {{region}}? This list of {{region}} ski mountains that are open today is updated daily. In addition to viewing the open ski resorts across {{region}}, you can sort the list of open mountains by number of lifts open, 24 hour snow totals, base depth and user rating. Toggle over to view a list of Projected Opening Dates and Projected Closing dates for {{region}} ski resorts.",
+                "noResorts": "No resorts are open today."
+              },
+              "openDates": {
+                "heroTitle": "{{region}} Ski Resort Projected Opening Dates",
+                "seoTitle": "{{region}} Ski Resort Projected Opening Dates",
+                "seoText": "When will ski resorts in the {{region}} open for the ski season? See this list of projected opening dates for {{region}} mountains. Important Note: Not all dates listed here are official and final; they are projected and subject to change. Sort the list by Opening Dates or Resort Name, 24 Hour Snow, Base Depth and User Rating. Check back for updates on when the lifts are set to start spinning at {{region}} ski areas, and don't miss opening day at your favorite resort!",
+                "projectedDate": "Projected opening date",
+                "lodging": "Lodging"
+              },
+              "closingDates": {
+                "heroTitle": "{{region}} Ski Resort Projected Closing Dates",
+                "seoTitle": "{{region}} Ski Resort Closing Dates",
+                "seoText": "When are {{region}} ski resorts closing for the season? Check out this list of projected closing dates for ski resorts in {{region}} to help you plan the rest of your ski season and get those late-season turns in. All projected closing dates are subject to change at each resort's discretion depending on the snow conditions and other factors.",
+                "projectedDate": "Projected closing date",
+                "noResorts": "No resorts found!"
+              },
+              "liftTickets": {
+                "seoTitle": "Lift Ticket Prices for Ski Resorts in {{region}}",
+                "seoText": "How much is a lift ticket at {{region}} ski resorts? Find season pass prices and prices for single day adult and child lift tickets at {{region}} ski areas wherever that information is available and provided by the mountain. {{region}} lift ticket prices are sourced directly from the ski resorts, who are responsible for their accuracy. Lift ticket prices are often dynamic and subject to change. Reach out to the ski resort of interest or visit their website for the latest lift ticket pricing, deals and discounts or to purchase lift tickets or season passes.",
+                "skiPasses": "{{region}} Ski Passes",
+                "resort": "Resort Name",
+                "season": "Season Pass",
+                "adult": "Adult",
+                "child": "Child",
+                "weekday": "Weekday",
+                "purchase": "Purchase",
+                "disclaimer": "Disclaimer: Lift Ticket prices are provided to OnTheSnow.com directly by the mountain resorts and those resorts are responsible for their accuracy. Daily Ticket prices are subject to change. Call resorts for updates.",
+                "passSeoInfoTitle": "{{region}} Ski Pass and Lift Ticket Info",
+                "passSeoInfoText": "<h3><strong>{{region}} Season Pass Info</strong></h3>\r\n<p>How many times will you visit {{region}} resorts? Even if planning on skiing just a few times at {{region}} resorts, a season pass is often the best choice for skiers and riders. A season pass typically pays for itself after just a few days on the mountain. For those avid skiers who ski regularly, it&rsquo;s a steal. Skiers can choose from various season passes.</p>\r\n<p>Season Pass holders get the best lift ticket price and tons of benefits.</p>\r\n<p>Alternatively, consider a pass from one of the major pass companies. Check out our season pass buying guides below.</p>\r\n<p><a href=\"https://www.onthesnow.com/news/epic-pass-buyers-guide/\">Epic Pass</a></p>\r\n<p><a href=\"https://www.onthesnow.com/news/ikon-pass-buyers-guide/\">IKON</a></p>\r\n<p><a href=\"https://www.onthesnow.com/news/mountain-collective-buyers-guide/\">Mountain Collective</a></p>\r\n<p><a href=\"https://www.onthesnow.com/news/indy-pass-buyers-guide/\">Indy Pass</a><br /><br /></p>\r\n<h3><strong>{{region}} Daily Lift Tickets Info</strong></h3>\r\n<p>2022 &ndash; 2023 Ski Season Daily Ski Passes vary based on dates, age, and number of days. Consider early bird lift tickets for the best prices during peak ski season. Additionally, late season lift ticket prices will often save your money, too.</p>\r\n<h3><strong>Where to purchase Lift Tickets?</strong></h3>\r\n<p>Lift tickets can be purchased online through a ski resort website, or in person at the ski resort&rsquo;s ticket window. For detailed information call the ski resort.</p>\r\n<h3><strong>The Deals</strong></h3>\r\n<p>Purchasing your lift tickets in advance is the best way to save money. Many ski resorts have a special offers page, where they have a variety of deals on lift tickets, lodging, retail, and more.</p>\r\n<p>Read more on <a href=\"https://www.onthesnow.com/news/cheap-thrills-best-ways-to-find-discounted-lift-tickets\">the best ways to find discounted lift tickets</a>.</p>",
+                "heroTitle": "{{region}} Lift Tickets"
+              },
+              "lodging": {
+                "heroTitle": "{{region}} Ski Lodging"
+              }
+            },
+            "privacyPolicy": {
+              "heroTitle": "Privacy Policy"
+            },
+            "termsConditions": {
+              "heroTitle": "OnTheSnow Terms and Conditions"
+            },
+            "alertsSubscriptions": {
+              "heroTitle": "Alerts & Subscriptions",
+              "nwsltrSub": "Newsletter Subscribe",
+              "hereYouCan": "Here you can subscribe/unsubscribe to our newsletter and special offers, and manage your existing Snow Report, Powder Alert, and Powder Forecast ski resort emails.",
+              "emailAddress": "Email Address...",
+              "subscribe": "Subscribe",
+              "unsubscribe": "Unsubscribe",
+              "powderAlerts": "Powder Alerts",
+              "powderForecast": "Powder Forecast",
+              "deleteMyProfile": "Delete my Profile",
+              "confirmDeleteProfile": "Yes, please delete my whole profile!"
+            },
+            "404Page": {
+              "heroTitle": "Oops! That page can't be found.",
+              "heroText": "The page you requested cannot be found. It may have expired or been removed. Please verify that the spelling and punctuation are correct and try reloading the page.",
+              "searchBarHelpText": "Vail"
+            },
+            "snowWeather": {
+              "home": {
+                "heroTitle": "Snow Reports & Snow Totals",
+                "seoTitle": "Ski Resort Snow Totals",
+                "seoText": "Which ski resorts got the most snow? Check out the latest snowfall totals for ski resorts and compare mountains with the most new snow from today, yesterday and two days ago. In addition to the updated 72-hour snow totals, this snow report also compares ski areas by snow depth totals at the summit and base of the mountain. Click through to any ski resort in the list to view the snow report for that mountain.",
+                "viewAllRegions": "View All Regions",
+                "passProducts": "Pass Products",
+                "visitOtsCoUk": "(Visit OnTheSnow.co.uk)",
+                "viewAllEuCountries": "View All European Countries",
+                "visitOtsCom": "(Visit OnTheSnow.com)",
+                "viewAllUsaStates": "View All US states",
+                "latestWeatherNews": "Latest Weather News",
+                "viewAllWeatherNews": "View All Weather News",
+                "72hourSnowfall": "72 Hour Snowfall"
+              }
+            },
+            "newsroom": {
+              "article": {
+                "catBestOfTopics": "Best of topics",
+                "catGearGuide": "Gear Buying Guide",
+                "catGearReview": "Gear Review",
+                "catHealthFitness": "Health & Fitness",
+                "catHowto": "How To",
+                "catLiftTicketDeals": "Lift Tickets Deals",
+                "catLongRangeForecast": "Long Range Forecast",
+                "catResortFeature": "Resort Feature",
+                "catSeasonPass": "Season Pass",
+                "catSnowScience": "Snow Before You Go",
+                "catTravelFature": "Travel Feature",
+                "relatedStories": "Related Stories"
+              },
+              "home": {
+                "mostPopular": "Most Popular",
+                "seeMore": "See more"
+              }
+            },
+            "guide": {
+              "home": {
+                "heroTitle": "Find a Ski Resort in North America & Worldwide",
+                "seoTitle": "Where Should I Go Skiing?",
+                "seoText": "Planning a ski trip? Find the most comprehensive guide to ski resorts nearby and globally. Click on a state or region from the options below to see a list of ski resorts in the area. Alternatively, you can select a hemisphere, continent, country, state or province from the Find Your Resort dropdown menu, and click Show Results for more information on the ski resorts in each area, including a terrain breakdown, mountain stats, number of lifts, OnTheSnow skier and rider visitor ratings, and the best week of the ski season to ski each mountain. From there, click through to the ski resort of choice to read up on the mountain at a glance, and check out the snow report, current skiing conditions via the webcams, weather forecast and more. Your next ski vacation starts right here!",
+                "mostPopular": "Most Popular",
+                "seeMore": "See more",
+                "rateResortLabel": "Rate a Resort",
+                "resortReviewHelptext": "Have you visited a ski resort lately? Share your experiences to provide insights to others and important feedback to ski resorts."
+              },
+              "article": {
+                "catBestOfTopics": "Best of topics",
+                "catGearGuide": "Gear Buying Guide",
+                "catGearReview": "Gear Review",
+                "catHealthFitness": "Health & Fitness",
+                "catHowto": "How To",
+                "catLiftTicketDeals": "Lift Tickets Deals",
+                "catLongRangeForecast": "Long Range Forecast",
+                "catResortFeature": "Resort Feature",
+                "catSeasonPass": "Season Pass",
+                "catSnowScience": "Snow Before You Go",
+                "catTravelFature": "Travel Feature",
+                "relatedStories": "Related Stories"
+              }
+            },
+            "searchResults": {
+              "helptext": "Search resorts, regions, pass programs, articles etc.",
+              "noResultsFound": "No Results Found",
+              "resorts": "Resorts",
+              "regions": "Regions",
+              "news": "News",
+              "article": {
+                "catBestOfTopics": "Best of topics",
+                "catGearGuide": "Gear Buying Guide",
+                "catGearReview": "Gear Review",
+                "catHealthFitness": "Health & Fitness",
+                "catHowto": "How To",
+                "catLiftTicketDeals": "Lift Tickets Deals",
+                "catLongRangeForecast": "Long Range Forecast",
+                "catResortFeature": "Resort Feature",
+                "catSeasonPass": "Season Pass",
+                "catSnowScience": "Snow Before You Go",
+                "catTravelFature": "Travel Feature",
+                "relatedStories": "Related Stories"
+              },
+              "home": {
+                "mostPopular": "Most Popular",
+                "seeMore": "See more"
+              },
+              "resort": "Resort",
+              "region": "Region"
+            },
+            "homePage": {
+              "heroTitle": "Want to go skiing?",
+              "heroSubtitle": "Everything you need for an extraordinary ski season is right here at OnTheSnow.",
+              "searchBarHelpText": "Type resort name or region...",
+              "popularSearches": "Popular Searches",
+              "snowingSomewhere": "It’s Snowing Somewhere",
+              "latestNews": "Latest News",
+              "article": {
+                "catBestOfTopics": "Best of topics",
+                "catGearGuide": "Gear Buying Guide",
+                "catGearReview": "Gear Review",
+                "catHealthFitness": "Health & Fitness",
+                "catHowto": "How To",
+                "catLiftTicketDeals": "Lift Tickets Deals",
+                "catLongRangeForecast": "Long Range Forecast",
+                "catResortFeature": "Resort Feature",
+                "catSeasonPass": "Season Pass",
+                "catSnowScience": "Snow Before You Go",
+                "catTravelFature": "Travel Feature",
+                "relatedStories": "Related Stories"
+              },
+              "home": {
+                "mostPopular": "Most Popular",
+                "seeMore": "See more"
+              },
+              "companyName": "OnTheSnow",
+              "description": "Provides the Snow Report, Cams, Deals, and Ski Resort Reviews for over 2,000 ski resorts worldwide. OnTheSnow is the primary source of all snow reports on the web.",
+              "legalName": "Mountain News LLC",
+              "employees": "50",
+              "h1Title": "Ski Reports & Snow Forecast",
+              "nearbyResorts": "Nearby Resorts"
+            },
+            "smartBanner": {
+              "otsOnAndroid": "OnTheSnow On Android",
+              "appTitle": "Snow & Weather Reports",
+              "ctaOpen": "OPEN"
+            },
+            "email": {
+              "error": {
+                "text": "Error. Please try again."
+              },
+              "unsubscribe": {
+                "message": "Click Here To Unsubscribe",
+                "text": "Successfully unsubscribed"
+              }
+            },
+            "app": {
+              "baseSnow": "Base",
+              "liftsOpen": "Open Lifts",
+              "newsnow": {
+                "24h": "24 Hour"
+              },
+              "snowfeed": {
+                "title": "Snow Feed",
+                "empty": "No items in snow feed yet, add resorts to favorites first.",
+                "fhrTitle": "First Hand Report",
+                "itemseparator": "at",
+                "newSnowTitle": "New Snowfall",
+                "snowExpTitle": "Snowfall Expected"
+              },
+              "intro": {
+                "title": {
+                  "myResorts": "Track Favorite Resorts",
+                  "news": "Snow Before You Go",
+                  "snowFeed": "Personalised Snow Feed",
+                  "fhr": "First Hand Ski Reports",
+                  "powderAlerts": "Powder Alerts"
+                },
+                "description": {
+                  "myResorts": "Quickly track snow conditions by selecting your favorite resorts from over 2,000 ski areas worldwide",
+                  "news": "Weekend snow forecasts helps you locate the best powder for the weekend",
+                  "snowFeed": "Get an instant live glance at ski cams and first hand reports for your favorite resorts.",
+                  "fhr": "View and post photos and user reports directly from the slopes",
+                  "powderAlerts": "Receive alerts when your favorite resorts receive fresh snow"
+                }
+              }
+            },
+            "nearbyResorts": {
+              "currentLocation": "Using current location, type to select other one",
+              "distance": "Distance",
+              "empty": "No resorts found!",
+              "heroTitle": "Ski Resorts Near Me | OnTheSnow",
+              "noLocation": "GPS location access disabled",
+              "searchPlace": "Choose Location",
+              "seoText": "What ski resorts are nearby? Enable your location setting to find the nearest skiing and snowboarding options, and the distance from your current location to each nearby ski resort. Explore the best ski resorts near you, plus find out essential ski slope info like the latest snowfall, current conditions, upcoming weather and more.",
+              "seoTitle": "Ski Resorts Near Me",
+              "useCurrentLocation": "Reset to current location"
+            }
+          },
+          "seo": {
+            "Other": {
+              "404": {
+                "title": "Page Not Found - OnTheSnow",
+                "description": "Page not found"
+              },
+              "500": {
+                "title": "Application Error - OnTheSnow",
+                "description": "Server error"
+              },
+              "contact": {
+                "title": "Contact Us I Write A Letter To The Editor I Get Ad Info I OnTheSnow.com",
+                "description": "Provide feedback or comments to OnTheSnow, receive advertising information and snow sports content for your web site on our contact page."
+              },
+              "home": {
+                "title": "Ski And Snow Reports, Webcams, Skiing Reviews | OnTheSnow.com",
+                "description": "Provides the Snow Report, Cams, Deals, and Ski Resort Reviews for over 2,000 ski resorts worldwide. OnTheSnow is the primary source of all snow reports on the web."
+              },
+              "login": {
+                "title": "Member Login - OnTheSnow",
+                "description": "Register for an OnTheSnow account in order to save and view updates for your favorite ski resorts."
+              },
+              "most_popular": {
+                "title": "Most Popular User Reviewed Ski Resort Regions",
+                "description": "Includes the most popular ski resorts in OnTheSnow over the last 24 hours."
+              },
+              "news": {
+                "title": "Ski & Skiing News - Daily Local Ski News",
+                "description": "Includes News, Deals & Events for over 2,000 ski resorts throughout the world."
+              },
+              "prizes": {
+                "title": "Prize Of The Week - OnTheSnow",
+                "description": "A list of skiing and snowboarding sweepstakes and competitions you can participate in to win great prizes from OnTheSnow."
+              },
+              "prizes_signup": {
+                "title": "Enter For A Chance To Win - OnTheSnow",
+                "description": "A list of skiing and snowboarding sweepstakes and competitions you can participate in to win great prizes from OnTheSnow."
+              },
+              "prizes_thankyou": {
+                "title": "Thank You - OnTheSnow",
+                "description": "Thank you for participating in an OnTheSnow sweepstakes, good luck."
+              },
+              "rss_info_sitemap": {
+                "title": "RSS Snow Report I Get The Most Up To Date Snow Reports I OnTheSnow.com",
+                "description": "RSS Info Description"
+              },
+              "search": {
+                "title": "Search - OnTheSnow",
+                "description": "Search for snow reports, deals, and reviews at over 2,000 ski areas throughout the world."
+              },
+              "site_map": {
+                "title": "Site Map - OnTheSnow",
+                "description": "OnTheSnow.com Ski and Snow Conditions."
+              },
+              "snowdumps": {
+                "title": "New Snowfall Totals - OnTheSnow",
+                "description": "Largest snowfall totals in the last 24-72 hours at ski areas throughout the world."
+              },
+              "news_rss": {
+                "title": "Ski & Skiing News - Daily Local Ski News",
+                "description": "Includes News, Deals & Events for over 2,000 ski resorts throughout the world."
+              },
+              "regions_rss": {
+                "title": "Ski And Snow Reports, Webcams, Skiing Reviews | OnTheSnow.com",
+                "description": "Provides the Snow Report, Cams, Deals, and Ski Resort Reviews for over 2,000 ski resorts worldwide. OnTheSnow is the primary source of all snow reports on the web."
+              },
+              "community_home": {
+                "title": "OnTheSnow Community",
+                "description": "OnTheSnow.com Community, Blogs, Reviews."
+              },
+              "member_profile": {
+                "title": "[USERNAME]'s OnTheSnow Profile"
+              },
+              "member_comments": {
+                "title": "[USERNAME]'s Comments"
+              },
+              "member_blogs": {
+                "title": "[USERNAME]'s OnTheSnow Blog Entries"
+              },
+              "member_favorites": {
+                "title": "[USERNAME]'s OnTheSnow Favorites"
+              },
+              "member_photos": {
+                "title": "[USERNAME]'s OnTheSnow Profile Photos"
+              },
+              "member_reviews": {
+                "title": "[USERNAME]'s OnTheSnow Reviews"
+              },
+              "news_search": {
+                "title": "OnTheSnow Newsroom Search Results",
+                "description": "Search For Ski Resort News"
+              },
+              "member_points": {
+                "title": "OnTheSnow Powder Points Overview"
+              },
+              "terms": {
+                "title": "OnTheSnow Terms of Use",
+                "description": "OnTheSnow.com Terms and Conditions"
+              },
+              "member_benefits": {
+                "title": "OnTheSnow Member Benefits"
+              },
+              "member_register": {
+                "title": "OnTheSnow Member Registration"
+              },
+              "reviews_guide": {
+                "title": "Ski Resort Reviews",
+                "description": "OnTheSnow offers the largest collection of ski resort reviews. Below you can find skiing reviews for all ski resorts throughout North American, Europe, and the Southern Hemisphere."
+              },
+              "lifttickets_guide": {
+                "title": "Ski Lift Tickets Discounts & Deals",
+                "description": "Find discount lift tickets, ski pass deals and cheap ski tickets for skiing in Colorado, Utah, California, Wyoming, British Columbia, Switzerland and more."
+              },
+              "seasonpasses_guide": {
+                "title": "Season Pass Deals & Discounts",
+                "description": "Find discount lift tickets, ski pass deals and cheap ski tickets for skiing in Colorado, Utah, California, Wyoming, British Columbia, Switzerland and more."
+              },
+              "weather_guide": {
+                "title": "Get The Latest Ski Weather Report & Forecast I OnTheSnow",
+                "description": "Check out the OnTheSnow ski weather report to see webcam views, snowfall totals and weather forecasts for ski resorts worldwide."
+              },
+              "photo_guide": {
+                "title": "Snow Ski & Snowboarding Photos",
+                "description": "Ski & Snowboarding Photos"
+              },
+              "comments": {
+                "title": "Comments",
+                "description": "Ski resort reviews from skiers around the world."
+              },
+              "deals": {
+                "title": "Ski Resort Deals | Vacation Packages | OnTheSnow",
+                "description": "The OnTheSnow deals page allows you to compare rates at different resorts to get the best price for your ski trip."
+              },
+              "gear": {
+                "title": "Ski Gear | Product Reviews | Buyers' Guide | OnTheSnow",
+                "description": "The latest ski gear, buyers' guides and outerwear product reviews. Find your next ski with detailed performance reviews from the OnTheSnow annual Ski Test."
+              },
+              "photo_detail": {
+                "title": "Ski and Snowboard Photography Details",
+                "description": "OnTheSnow shows you the best pictures from events, ski resorts, competitive sports and skiing holidays."
+              },
+              "resort_guide": {
+                "title": "Find a Ski Resort | OnTheSnow",
+                "description": "The OnTheSnow guide to over 2,000 ski resorts around the globe, including ski and snow reports, content, deals and much more."
+              },
+              "travel_hotels": {
+                "title": "Ski and Snowboard Travel and Hotel Information"
+              },
+              "skirentals": {
+                "title": "Ski Resort Equipment Rental Information",
+                "description": "Information regarding ski & snowboard equipment rentals."
+              },
+              "snowdumps24": {
+                "title": "24 Hour Snow Totals | OnTheSnow",
+                "description": "See which ski resorts got the most snow in the last day, along with snow depth for the season & skier ratings for the snowiest ski resorts."
+              },
+              "snowdumps48": {
+                "title": "2 Day Snow Totals | OnTheSnow",
+                "description": "See which ski resorts got the most snow in the last two days, along with snow depth for the season & skier ratings for the snowiest ski resorts."
+              },
+              "snowdumps72": {
+                "title": "3 Day Snow Totals | OnTheSnow",
+                "description": "See which ski resorts got the most snow in the last three days, along with snow depth for the season & skier ratings for the snowiest ski resorts."
+              },
+              "gallery": {
+                "title": "Gallery of Ski and Snowboard Photos",
+                "description": "Photos from {{resort}}. Photos of skiing, snowboarding, powder and all things snow from {{resort}}."
+              },
+              "regions": {
+                "title": "Additional Ski and Snowboard Information for {{region}}",
+                "description": "A list of skiing and snowboarding regions that are home to ski resorts."
+              },
+              "nearby_resorts": {
+                "title": "Ski Resorts Near Me | OnTheSnow",
+                "description": "See a list of nearby ski resorts that are closest to your current location and which of these mountains got fresh snow."
+              },
+              "mostpopular_all": {
+                "title": "Most Popular User Reviewed Ski Resort Regions",
+                "description": "Our highest rated ski resorts as reviewed by our regular visitors; Resorts reviews are sorted by nightlife, family-friend, terrain and terrain parks and pipe."
+              },
+              "open_resorts_all": {
+                "title": "Open Ski Resorts I OnTheSnow",
+                "description": "Find a list of open ski resorts in North America, and see which open ski resorts got the most snow in the last 24 hours."
+              },
+              "open_resorts_all_so": {
+                "title": "Open Ski Resorts in the Southern Hemisphere",
+                "description": "Overview of open ski resorts in the Southern-Hemisphere"
+              },
+              "open_resorts_all_eu": {
+                "title": "Open Ski Resorts in Europe",
+                "description": "Overview of open ski resorts in Europe"
+              },
+              "projected_closing_all": {
+                "title": "Projected Ski Resort Closing Dates",
+                "description": "Projected closing dates/season end for ski resorts in North-America"
+              },
+              "projected_closing_all_eu": {
+                "title": "Projected European Ski Resort Closing Dates",
+                "description": "Projected closing dates/season end for ski resorts in Europe"
+              },
+              "projected_closing_all_so": {
+                "title": "Projected Southern Hemisphere Ski Resort Closing Dates",
+                "description": "Projected closing dates/season end for ski resorts in the Southern Hemisphere"
+              },
+              "cams": {
+                "title": "Ski Resort Webcams | Live Weather & Conditions | OnTheSnow",
+                "description": "View live cams from ski resorts to see who got the most snow & current ski conditions at your favorite mountain."
+              },
+              "skireport": {
+                "title": "Snow Report | Snowfall & Snow Depth | OnTheSnow",
+                "description": "Get the latest ski report for ski resorts in North America, updated daily with snowfall totals & snow depths to see which resorts got the most snow."
+              },
+              "profile": {
+                "title": "Find a Ski Resort | OnTheSnow",
+                "description": "Search for ski resorts by region and compare terrain, lifts & visitor rating or use the Resort Finder to get ski resorts that fit your ski trip criteria."
+              },
+              "projected_openings_all": {
+                "title": "Projected Ski Season Opening | North America",
+                "description": "Projected opening dates/season start for ski resorts in North-America"
+              },
+              "projected_openings_all_so": {
+                "title": "Southern Hemisphere Projecting Ski Season Opening Dates | Chile, Argentina, New Zealand",
+                "description": "Projected opening dates/season start for ski resorts in the Southern Hemisphere"
+              },
+              "projected_openings_all_eu": {
+                "title": "Projected Ski Season Opening | Europe",
+                "description": "Projected opening dates/season start for ski resorts in Europe"
+              },
+              "resort_finder": {
+                "title": "Find the Best Ski Resorts for Your Next Mountain Vacation",
+                "description": "Quickly find the best ski resort for your next trip to the mountains. Enter location, dates, terrain type, price and more into the multi-criteria search tool and find a list of ideal resorts that are perfectly suited for your next ski vacation."
+              },
+              "news_overview": {
+                "title": "OnTheSnow.com News & Articles"
+              },
+              "newsletter": {
+                "title": "Newsletter | Weekly Forecast & Ski News | OnTheSnow",
+                "description": "Get the latest weather forecast, skiing news and gear updates from OnTheSnow, delivered straight to your inbox every week."
+              },
+              "topics": {
+                "title": "Ski News | Top Stories | OnTheSnow",
+                "description": "The latest ski industry news, weather, buyers' guides & gear reviews, ski fitness, photos & videos, skiing how-to's."
+              },
+              "travel": {
+                "title": "Plan & Book Ski Vacations | Deals | OnTheSnow",
+                "description": "Plan & book your ski trip with vacation deals, ski packages & discount lift tickets."
+              },
+              "nearby_resorts_map": {
+                "title": "Ski Resorts nearby I Check this map for the closest option to ski I OnTheSnow.com",
+                "description": "Want to ski today? Find the ski resorts closest to your current location and see their status and snow report at a glance ..."
+              },
+              "snowdumps7d": {
+                "title": "7 Day Snow Totals | OnTheSnow",
+                "description": "See which ski resorts got the most snow in the last week along with snow depth for the season & skier ratings for the snowiest ski resorts."
+              },
+              "deals_winterholidays": {
+                "title": "Martin Luther King and Presidents Day Weekend holiday ski deals | OnTheSnow",
+                "description": "Enjoy the best ski deals and discounts during winter holidays like Presidents Day weekend and Martin Luther King, Jr. weekend! Check out this page for ski lift tickets, lodging deals and everything else you'll need for a long ski weekend this winter!"
+              },
+              "deals_easter": {
+                "title": "Easter & spring skiing deals | OnTheSnow",
+                "description": "Enjoy skiing this Easter and take advantage of spring skiing conditions on the slopes! Do it all for the lowest prices with ski deals and discounts from OnTheSnow!"
+              },
+              "deals_christmas": {
+                "title": "Christmas Ski Deals | OnTheSnow.com",
+                "description": "Make a memorable Christmas vacation this year on the ski slopes! Do it all for less with exclusive ski deals and discounts, on everything from lodging to lift tickets."
+              },
+              "deals_opening": {
+                "title": "Best Early-Season Ski Deals & Discounts | OnTheSnow",
+                "description": "Start your season off with saving some money on lift tickets and lodging! Ski resorts are offering early-season and pre-season lift tickets and lodging deals, so make sure you check out our special offers before starting the ski season!"
+              },
+              "deals_newyear": {
+                "title": "New Year's ski deals | OnTheSnow",
+                "description": "Ring in the New Year and save money while enjoying your best ski vacation yet! OnTheSnow brings you the best deals and discounts on lift tickets, lodging and everything else you'll need to have a great ski vacation over the New Year holiday."
+              },
+              "hotel_detail": {
+                "title": "[UNIT_NAME] | {{resort}} | {{region}}",
+                "description": "[UNIT_NAME]: [STARS] stars. find lodging for your ski vacation to {{resort}}. Compare prices, see photos and book your hotel here."
+              },
+              "skischools": {
+                "title": "Ski Schools | OnTheSnow",
+                "description": "From group to individual lessons, ski schools are your gateway to improving your skills on the slopes."
+              },
+              "surveys_1": {
+                "title": "Skiing & Riding Surveys, Polls & Sweepstakes | OnTheSnow",
+                "description": "Answer skiing & riding surveys, polls & sweepstakes about your favorite ski resorts, gear, how often you ski & more trends & topics at OnTheSnow."
+              },
+              "surveys_2": {
+                "title": "",
+                "description": ""
+              },
+              "surveys_3": {
+                "title": "",
+                "description": ""
+              },
+              "videos": {
+                "title": "Ski & Snowboard Videos | OnTheSnow"
+              },
+              "mobile": {
+                "title": "Android and iPhone Snow Reports",
+                "description": "OnTheSnow Mobile Ski & Snow Reports for your iPhone"
+              },
+              "region_sitemap": {
+                "description": "Region Site Map"
+              }
+            },
+            "MetaRegion": {
+              "region_sitemap": {
+                "title": "{{region}} Site Map"
+              },
+              "cams": {
+                "title": "{{region}} Ski Resort Webcams | All Live HD Cams | OnTheSnow",
+                "description": "Live {{region}} cams. See which ski resorts got the most snow & current ski conditions at your favorite {{region}} mountain."
+              },
+              "profile": {
+                "title": "Top Rated Ski Resorts in {{region}}",
+                "description": "View all ski resorts in {{region}}. Compare {{region}} ski resorts by terrain, mountain stats, number of lifts & acres open & visitor reviews."
+              },
+              "lifttickets": {
+                "title": "{{region}} Ski Resort Lift Ticket Prices and Rates",
+                "description": "Find current single day, half day and multi-day adult and child lift ticket prices in {{region}}."
+              },
+              "state_map": {
+                "title": "{{region}} Ski Resort Map | OnTheSnow",
+                "description": "Find ski resorts in {{region}}. This map of {{region}} ski resorts shows each mountain's location within the region & in relation to other ski areas nearby & major cities."
+              },
+              "skireport": {
+                "title": "{{region}} Snow Report | OnTheSnow",
+                "description": "See latest {{region}} ski conditions, updated daily with snowfall totals, snow depths, open lifts & terrain for all ski resorts in {{region}}."
+              },
+              "travel": {
+                "title": "{{region}} Ski Trips | Travel Deals | OnTheSnow",
+                "description": "Plan & book your {{region}} ski trip with vacation deals, ski packages & discount lift tickets."
+              },
+              "stats": {
+                "title": "{{region}} Ski Resorts Elevations & Area",
+                "description": "OnTheSnow.com {{region}} mountain statistics."
+              },
+              "lifts": {
+                "title": "{{region}} Ski Resorts Ski Lifts Comparison",
+                "description": "Information regarding the number and type of lifts at the ski resorts in {{region}}."
+              },
+              "region_rss": {
+                "title": "{{region}} Snow Report | OnTheSnow",
+                "description": "See latest {{region}} ski conditions, updated daily with snowfall totals, snow depths, open lifts & terrain for all ski resorts in {{region}}."
+              },
+              "reviews": {
+                "title": "Top Rated {{region}} Ski Resorts | OnTheSnow",
+                "description": "Check out which {{region}} ski resorts were the top rated based on skier & snowboarder reviews submitted to OnTheSnow."
+              },
+              "news": {
+                "title": "{{region}} Ski Resorts News & Events",
+                "description": "OnTheSnow.com Ski Resort News for {{region}}"
+              },
+              "terrain": {
+                "title": "{{region}} Ski Resorts Difficulty Of Terrain Comparison",
+                "description": "The table below provides the ability to compare {{region}} ski resorts based on key attributes such as ski resort statistics, downhill terrain, and skier ratings. Use the tabs below to view the different tables. You can also click on a {{region}} ski resort below to learn more about the ski resort."
+              },
+              "rating": {
+                "title": "{{region}} Ski Resort Reviews | OnTheSnow",
+                "description": "What's the best {{region}} ski resort? Compare reviews & ratings from fellow skiers & riders."
+              },
+              "lifttickets_guide": {
+                "title": "{{region}} Lift Ticket Deals & Discounts",
+                "description": "Find discount lift tickets, ski pass deals and cheap ski tickets for skiing in {{region}}."
+              },
+              "seasonpasses_guide": {
+                "title": "{{region}} Season Pass Deals & Discounts",
+                "description": "Find discount lift tickets, ski pass deals and cheap ski tickets for skiing in {{region}}."
+              },
+              "region_guide": {
+                "title": "{{region}} Ski & Snow Report",
+                "description": "Includes the {{region}} ski report and weather reports for all ski resorts in {{region}}. OnTheSnow is primary source of all {{region}} snow reports on the web."
+              },
+              "deals": {
+                "title": "{{region}} Ski Resort Deals | Vacation Packages | OnTheSnow",
+                "description": "The OnTheSnow deals page allows you to compare rates at different resorts in {{region}} to get the best price for your ski trip."
+              },
+              "events": {
+                "title": "Events and Competitions in {{region}}",
+                "description": "The list of events and activities in {{region}} this ski season."
+              },
+              "lodging": {
+                "title": "{{region}} Hotels | Ski Resort Lodging | OnTheSnow",
+                "description": "{{region}} hotels, bed & breakfasts & specialty lodging plus accommodation deals for your next ski trip."
+              },
+              "overview": {
+                "title": "{{region}} Ski Resort List & Info | OnTheSnow",
+                "description": "On the overview page for {{region}} you will find a list of ski resorts in {{region}}, snow totals, weather information, webcams, trail maps and more."
+              },
+              "reviews_guide": {
+                "title": "User Reviews of Ski Resorts in {{region}}",
+                "description": "Skiers and snowboarders give their opinions about ski resorts in {{region}}."
+              },
+              "site_map": {
+                "title": "OnTheSnow - {{region}} Sitemap",
+                "description": "OnTheSnow.com Ski and Snow Conditions in {{region}}"
+              },
+              "skirentals": {
+                "title": "{{region}} Ski Resort Equipment Rental Information",
+                "description": "Information regarding ski & snowboard equipment rentals for ski resorts in {{region}}."
+              },
+              "snow_forecast": {
+                "title": "{{region}} Snow Forecast for Ski Resorts | OnTheSnow",
+                "description": "See the full weather and snow forecast for ski resorts in {{region}}."
+              },
+              "snow_rss": {
+                "title": "RSS feed for snow reports of ski resorts in {{region}}",
+                "description": "RSS feed for snow reports of ski resorts in {{region}}."
+              },
+              "travel_hotels": {
+                "title": "{{region}} Ski Travel and Hotel Information",
+                "description": "View ski holiday deals in {{region}}. Compare hotels in {{region}}."
+              },
+              "weather": {
+                "title": "{{region}} Weather Forecast | OnTheSnow",
+                "description": "Get the latest {{region}} weather and detailed weather forecast for all ski resorts in {{region}}."
+              },
+              "weather_guide": {
+                "title": "{{region}} Ski Weather Forecast | OnTheSnow",
+                "description": "See today's {{region}} ski weather report, with new snow totals, weather conditions, weather forecast, webcams and skier ratings for {{region}} ski resorts."
+              },
+              "powder_alarm": {
+                "title": "Snowfall Alerts for Ski Resorts in {{region}}",
+                "description": "The following ski areas in {{region}} have received fresh snow in the past 24 hours, so get out there and attack some powder!"
+              },
+              "region_profile": {
+                "title": "{{region}} Ski Resort Reviews and Information",
+                "description": "On the overview page for {{region}} you will find a list of ski resorts in {{region}}, snow totals, weather information, webcams, trail maps and more."
+              },
+              "snowdumps24": {
+                "title": "24 Hour Ski Snowfall Totals for {{region}}",
+                "description": "See how much fresh snow has fallen in the last 24 hours at ski resorts in {{region}}. Snowfall in {{region}} in the last 24 hours."
+              },
+              "snowdumps48": {
+                "title": "Cumulative snowfall totals for the last 48 hours in {{region}}",
+                "description": "Snowfall in the last 48 hours in {{region}}"
+              },
+              "snowdumps72": {
+                "title": "Cumulative snowfall totals for the last 72 hours in {{region}}",
+                "description": "{{region}} snowfall in the last 72 hours"
+              },
+              "region_photos": {
+                "title": "Skiing and snowboarding photos from ski resorts in {{region}}.",
+                "description": "Skiing and snowboarding photos from ski resorts in {{region}}."
+              },
+              "region_videos": {
+                "title": "Skiing and snowboarding videos from ski resorts in {{region}}.",
+                "description": "Never miss the action or events from {{region}} with our collection of skiing and snowboarding videos from  {{region}}."
+              },
+              "projected_closing": {
+                "title": "Closing Dates for {{region}} Ski Resorts | OnTheSnow",
+                "description": "When do the {{region}} ski resorts close for the season? Check out the list of projected closing dates for ski resorts in {{region}}."
+              },
+              "open_resorts": {
+                "title": "Open Ski Resorts in {{region}} 2022-2023 | OnTheSnow",
+                "description": "See open ski resorts in {{region}} and which of the open mountains got new snow in the last 24 hours."
+              },
+              "projected_openings": {
+                "title": "{{region}} Ski Resort Projected Opening Dates 2022/23 | OnTheSnow",
+                "description": "When will ski resorts in {{region}} open for ski season? Check out our list of projected opening dates for {{region}} mountains."
+              },
+              "ski_report_reviews": {
+                "title": "{{region}} Firsthand Reports & Photos | OnTheSnow",
+                "description": "Check out the firsthand snow reports & photos from [REGION} ski resorts, submitted by fellow skiers & riders using the OnTheSnow Ski & Snow Report App."
+              },
+              "nordic_report": {
+                "title": "Cross-country ski overview for {{region}}",
+                "description": "Overview of cross-country tracks in {{region}}"
+              },
+              "snowdumps7d": {
+                "title": "Snowfall totals for the last 7 days in {{region}}",
+                "description": "Which ski resorts in {{region}} got the most fresh snow in the last 7 days? Find the best powder of the week before hitting the mountain."
+              },
+              "deals_winterholidays": {
+                "title": "Martin Luther King Day and Presidents Day Weekend holiday ski deals for {{region}}",
+                "description": "Take advantage of long holiday weekends in {{region}} this ski season. Presidents Day and Martin Luther King, Jr. weekends are great times to get deals and discounts on lift tickets and lodging!"
+              },
+              "deals_easter": {
+                "title": "Easter and spring skiing deals in {{region}}",
+                "description": "Enjoy Easter and spring skiing with exclusive deals and discounts in {{region}} – find lodging bargains and lift ticket deals right here on OnTheSnow!"
+              },
+              "deals_christmas": {
+                "title": "Christmas holiday deals for ski resorts in {{region}}",
+                "description": "Have fun on the slopes this holiday season with ski deals and discounts in {{region}} this Christmas season. Check out the best ski promotions and deals here at OnTheSnow."
+              },
+              "deals_opening": {
+                "title": "Best Early-Season Ski Deals & Discounts in {{region}}",
+                "description": "Jump start your ski season with the best early-season and opening day deals in {{region}}. Take advantage of special offers and discounts as resorts open for the first day of the ski season."
+              },
+              "deals_newyear": {
+                "title": "New Year's ski deals in {{region}}",
+                "description": "Ring in the New Year in {{region}} with the best ski deals and discounts! OnTheSnow is here to help you during the New Year holiday with deals on everything from lodging to lift tickets at your favorite resorts."
+              },
+              "skischools": {
+                "title": "Ski Schools & Lessons in {{region}} | OnTheSnow",
+                "description": "Ski schools in {{region}}. Find ski lessons for beginners or classes and clinics for intermediate and advanced skiers looking to up their game."
+              },
+              "seasonpasses": {
+                "description": "Find season pass prices for Ski Resorts in {{region}}"
+              }
+            },
+            "Resort": {
+              "cam_thumbs": {
+                "title": "{{resort}} Web Cam & Daily Photo Thumbnail Gallery",
+                "description": "Web Cams, Photos & Videos for {{resort}}, {{region}}"
+              },
+              "cams": {
+                "title": "{{resort}} Webcams - All Live HD Cams - OnTheSnow",
+                "description": "{{resort}} webcams. Check out new snow, live weather & current ski conditions. All Live HD Cams and archive of daily images at {{resort}}."
+              },
+              "events": {
+                "title": "Events {{resort}} | Find out what events are happening | OnTheSnow.com",
+                "description": "{{resort}}, {{region}} Events."
+              },
+              "profile": {
+                "title": "{{resort}} Ski Resort Area Overview - OnTheSnow",
+                "description": "The ultimate guide to {{resort}} ski resort. Everything you need to know about the ski area, from the best ski runs and terrain to where to go for après."
+              },
+              "lifttickets": {
+                "title": "{{resort}} Lift Ticket Prices and Rates",
+                "description": "Find current single day, half day and multi-day adult and child ski lift ticket prices at {{resort}}, {{region}}."
+              },
+              "lodging": {
+                "title": "{{resort}} Hotels | Lodging | OnTheSnow",
+                "description": "Compare and book top-rated {{resort}} hotels for your next ski trip. Find the best deals on hotels, condos, and cabins rentals near {{resort}}."
+              },
+              "skireport": {
+                "title": "{{resort}} Snow Report | OnTheSnow",
+                "description": "See latest {{resort}} ski report, updated daily with snow totals & ski conditions. Find out current snow depths and last snowfall date."
+              },
+              "trailmap": {
+                "title": "{{resort}} Trail Map | OnTheSnow",
+                "description": "View the {{resort}} trail map for a preview of the trails and lifts at the ski resort. Navigate the mountain with the latest {{resort}} ski maps."
+              },
+              "travel": {
+                "title": "{{resort}} Ski Trip | Vacation Deals | OnTheSnow",
+                "description": "Plan & book your {{resort}} ski trip with vacation deals, ski packages & discount lift tickets."
+              },
+              "weather": {
+                "title": "{{resort}} Weather & Snow Forecast | OnTheSnow",
+                "description": "See {{resort}} weather forecast, including current high & low temperatures at the summit & base of the mountain today through the next week."
+              },
+              "rss_sitemap": {
+                "title": "RSS {{resort}} Snow Report I Get The Most Up To Date Snow Reports I OnTheSnow.com",
+                "description": "RSS Description for {{resort}}"
+              },
+              "resort_rss": {
+                "title": "{{resort}} Snow Report | OnTheSnow",
+                "description": "See latest {{resort}} ski report, updated daily with snow totals & ski conditions. Find out current snow depths and last snowfall date."
+              },
+              "news": {
+                "title": "{{resort}} Ski & Skiing News & Events",
+                "description": "Visit for the latest {{resort}} ski news. OnTheSnow provides daily local news for {{resort}} and other {{region}} ski resorts."
+              },
+              "reviews": {
+                "title": "{{resort}} Reviews | OnTheSnow",
+                "description": "Read {{resort}} reviews from fellow skiers & riders who ranked the overall mountain, terrain, nightlife, family-friendliness & more."
+              },
+              "reviews_list": {
+                "title": "User Generated Reviews I {{resort}} I Read Skier Reviews I OnTheSnow.com",
+                "description": "{{resort}} Reviews: Comments from the slopes, snow conditions, apres ski and amenities."
+              },
+              "terrain": {
+                "title": "{{resort}} Terrain Difficulty Statistics"
+              },
+              "weather_forecast": {
+                "title": "{{resort}}, {{region}} 5-Day Weather Forecast",
+                "description": "5-Day Forecast and Weather at {{resort}}, {{region}}. Also includes the current conditions, snow report, weather map, weather web cam, and skiing weather forecast for {{resort}}."
+              },
+              "weather_maps": {
+                "title": "{{resort}}, {{region}} Ski Weather Maps",
+                "description": "Weather Maps & Current Conditions at {{resort}}, {{region}}. Also includes the snow report, weather map, weather web cam, and skiing weather forecast for {{resort}}."
+              },
+              "lifttickets_guide": {
+                "title": "{{resort}} Lift Ticket Deals & Discounts",
+                "description": "Find discount lift tickets, ski pass deals and cheap ski tickets for skiing in {{resort}}."
+              },
+              "seasonpasses_guide": {
+                "title": "{{resort}} Season Pass Deals & Discounts",
+                "description": "Find discount lift tickets, ski pass deals and cheap ski tickets for skiing in {{resort}}."
+              },
+              "resort_guide": {
+                "title": "Ski & Snow Report I {{resort}} I Get The Latest Snow Info I OnTheSnow.com",
+                "description": "{{resort}} ski & snow report and weather forecast. Updated Hourly."
+              },
+              "gettinghere": {
+                "title": "{{resort}} Directions & Air Transportation Options",
+                "description": "Detailed directions for traveling to {{resort}}."
+              },
+              "skirentals": {
+                "title": "{{resort}} Ski Rentals",
+                "description": "Information regarding ski & snowboard equipment rentals for {{resort}}."
+              },
+              "social_updates": {
+                "title": "{{resort}} Social Updates",
+                "description": "OnTheSnow has compiled a list of all the {{resort}} social feeds and combined them into one convenient view."
+              },
+              "deals": {
+                "title": "{{resort}} Deals & Discounts | Vacation Packages | OnTheSnow",
+                "description": "The {{resort}} deals page allows you to find the latest offers from {{resort}} to ensure the best deal on your ski trip."
+              },
+              "driving_directions": {
+                "title": "{{resort}} Driving Directions | OnTheSnow",
+                "description": "Get detailed driving directions & a map to {{resort}} from your current location, along with air travel, transfers & other transportation information for getting to {{resort}}."
+              },
+              "historical": {
+                "title": "{{resort}} Snow History | OnTheSnow",
+                "description": "How much did it snow at {{resort}} last season? Compare season-over-season snow totals and snow stats for {{resort}}."
+              },
+              "photo_detail": {
+                "title": "Ski Resort Photos from {{resort}}"
+              },
+              "powder_alarm": {
+                "title": "Snowfall Alerts for Skiing and Snowboarding at {{resort}}"
+              },
+              "region_guide": {
+                "title": "Ski Resort Guide to {{region}}"
+              },
+              "reviews_guide": {
+                "title": "User Reviews of {{resort}} skiing and snowboarding"
+              },
+              "review_details": {
+                "title": "{{resort}} Reviews: Best Ski Resorts Rated by Users"
+              },
+              "ski_report_reviews": {
+                "title": "{{resort}} Firsthand Reports & Photos | OnTheSnow",
+                "description": "Check out the firsthand snow reports & photos from the slopes of {{resort}}, submitted by fellow skiers & riders using the OnTheSnow Ski & Snow Report App."
+              },
+              "snowdepth": {
+                "title": "Snow Depth Totals at {{resort}}"
+              },
+              "snow_rss": {
+                "title": "RSS feed for snow reports at {{resort}}",
+                "description": "RSS feed for snow reports from {{resort}}"
+              },
+              "travel_hotels": {
+                "title": "Ski Travel and Hotel Information for {{resort}}",
+                "description": "View ski holiday deals in {{resort}}. Compare hotels in {{resort}}."
+              },
+              "weather_guide": {
+                "title": "Ski Weather Report & Forecast for {{resort}}, {{region}} | OnTheSnow"
+              },
+              "resort_photos": {
+                "title": "{{resort}} Ski & Snowboard Photos",
+                "description": "Browse through our collection of {{resort}} photos to get acquainted with it before your ski trip or to relive great memories on the slopes."
+              },
+              "resort_videos": {
+                "title": "{{resort}} Ski & Snowboard Videos",
+                "description": "Never miss the action or events from {{resort}} with our collection of skiing and snowboarding videos from {{resort}}."
+              },
+              "seasonpasses": {
+                "title": "{{resort}} Season Pass Price | OnTheSnow",
+                "description": "Find the latest season pass prices for {{resort}}, {{region}}."
+              },
+              "weather_longterm": {
+                "title": "{{resort}} Snow Forecast | OnTheSnow",
+                "description": "See the long-range weather forecast for {{resort}}, including temperatures, predicted snowfall and wind at the summit and base for the next week."
+              },
+              "weather_details": {
+                "title": "Hourly {{resort}} Weather Forecast | OnTheSnow",
+                "description": "See the hourly weather forecast for {{resort}}, including temperatures, predicted snowfall and wind at the summit and base for the next week."
+              },
+              "skischools": {
+                "title": "{{resort}} Ski Schools & Lessons | OnTheSnow",
+                "description": "Find ski schools & lessons at {{resort}}. Improve your skiing or riding technique with qualified instructors at {{resort}} ski schools."
+              },
+              "ski_lessons": {
+                "title": "Ski Lessons",
+                "description": ""
+              }
+            },
+            "State": {
+              "terrain": {
+                "title": "{{region}} Terrain Difficulty Statistics"
+              }
+            },
+            "Gear": {
+              "home": {
+                "title": "Ski Gear | Product Reviews | Buyers' Guide | OnTheSnow",
+                "description": "The latest ski gear, buyers' guides and outerwear product reviews. Find your next ski with detailed performance reviews from the OnTheSnow annual Ski Test."
+              }
+            }
+          },
+          "unit": {
+            "celsius": "{{count}} C°",
+            "fahrenheit": "{{count}} F°",
+            "celsiusShort": "{{count}}°",
+            "fahrenheitShort": "{{count}}°",
+            "cm": "{{count}} cm",
+            "cmShort": "{{count}}cm",
+            "inch": "{{count}} inch",
+            "inch_plural": "{{count}} inches",
+            "inchShort": "{{count}}\"",
+            "km": "{{count}} km",
+            "kmph": "{{count}} km/h",
+            "mph": "{{count}} m/h",
+            "mile": "{{count}} mi",
+            "m": "{{count}} m",
+            "feet": "{{count}} foot",
+            "feet_plural": "{{count}} feet",
+            "mShort": "{{count}}m",
+            "feetShort": "{{count}}'",
+            "mile_plural": "{{count}} mi",
+            "currency": "USD"
+          }
+        },
+        "en": {
+          "common": {
+            "nav": {
+              "global": {
+                "snowReports": "Snow Reports",
+                "planning": "Trip Planning",
+                "magazine": "Magazine",
+                "searchBox": "Search",
+                "ambassadors": "Ambassadors",
+                "newsletter": "Newsletter"
+              },
+              "tab": {
+                "snow": "Snow",
+                "tripPlanning": "Trip Planning",
+                "snowReport": "Snow Report",
+                "weather": "Weather",
+                "cams": "Cams",
+                "fhr": "First Hand Reports",
+                "overview": "Overview",
+                "reviews": "Reviews",
+                "trailMap": "Trail Map",
+                "snowPlanner": "Snow Planner",
+                "liftAccess": "Lift Access",
+                "lodging": "Lodging",
+                "openResorts": "Open Resorts",
+                "ClosingDates": "Closing Dates",
+                "OpenDates": "Open Dates",
+                "liftTickets": "Lift Tickets"
+              },
+              "footer": {
+                "contactOts": "Contact OnTheSnow",
+                "advertise": "Advertise",
+                "privacyPolicy": "Privacy Policy",
+                "TermsConditions": "Terms and Conditions",
+                "oneTrust": "Do Not Sell my Personal Information",
+                "copyrightMncAllRightsReserved": "Copyright © 1995-2022 Mountain News Corporation. All rights reserved.",
+                "legalNotice": "Legal Notice",
+                "newsAmbassadors": "Meet Our Ambassadors",
+                "newsletter": "Sign Up For Our Newsletter"
+              }
+            },
+            "common": {
+              "dash": "-",
+              "na": "N.A.",
+              "relatedRegions": "Related:",
+              "nearbyResorts": "Nearby:",
+              "premierPartner": "Premier Partner",
+              "base": "Base",
+              "summit": "Summit",
+              "resortName": "{{resort}}",
+              "resortShortName": "{{resort}}",
+              "dayMonday": "Monday",
+              "dayTuesday": "Tuesday",
+              "dayWednesday": "Wednesday",
+              "dayThursday": "Thursday",
+              "dayFriday": "Friday",
+              "daySaturday": "Saturday",
+              "daySunday": "Sunday",
+              "dayYesterday": "Yesterday",
+              "dayToday": "Today",
+              "dayTomorrow": "Tomorrow",
+              "dayMon": "Mon",
+              "dayTue": "Tue",
+              "dayWed": "Wed",
+              "dayThu": "Thu",
+              "dayFri": "Fri",
+              "daySat": "Sat",
+              "daySun": "Sun",
+              "monthJanuary": "January",
+              "monthFebruary": "February",
+              "monthMarch": "March",
+              "monthApril": "April",
+              "monthMay": "May",
+              "monthJune": "June",
+              "monthJuly": "July",
+              "monthAugust": "August",
+              "monthSeptember": "September",
+              "monthOctober": "October",
+              "monthNovember": "November",
+              "monthDecember": "December",
+              "monthJan": "Jan",
+              "monthFeb": "Feb",
+              "monthMar": "Mar",
+              "monthApr": "Apr",
+              "monthJun": "Jun",
+              "monthJul": "Jul",
+              "monthAug": "Aug",
+              "monthSep": "Sep",
+              "monthOct": "Oct",
+              "monthNov": "Nov",
+              "monthDec": "Dec",
+              "purchase": "Purchase",
+              "timeHour": "Hour",
+              "timeHours": "Hours",
+              "timeMinute": "Minute",
+              "timeMinutes": "Minutes",
+              "timeDay": "Day",
+              "timeDays": "Days",
+              "timeHourAgo": "{{value}} Hour ago",
+              "timeHoursAgo": "{{value}} Hours ago",
+              "timeHoursMinutesAgo": "{{value}} Hours {{value}} minutes ago",
+              "timeMinuteAgo": "{{value}} Minute ago",
+              "timeMinutesAgo": "{{value}} Minutes ago",
+              "timeDayAgo": "{{value}} Day ago",
+              "timeDaysAgo": "{{value}} Days ago",
+              "timeYearAgo": "{{value}} Year ago",
+              "timeYearsAgo": "{{value}} Years ago",
+              "seeAllCams": "See All Cams",
+              "featuredSnowreport": "Featured Snow Report",
+              "loadMore": "Load More",
+              "mph": "mph",
+              "kmh": "km/h",
+              "searchButton": "Search",
+              "watchVideo": "Watch video",
+              "website": "Website",
+              "windSpeed": "Wind Speed",
+              "forecastedSnow": "Forecasted Snow",
+              "hourlyWeatherForecast": "Hourly Weather Forecast for {{date}}",
+              "dailyWeatherForecast": "Daily Weather Forecast",
+              "shareThis": "Share This:",
+              "twitterShare": "\"${title} ${link} via @OnTheSnow\"",
+              "sitemapHeader": "Sitemap",
+              "sitemapAdditionalRegions": "Additional Regions",
+              "relatedNews": "Related News",
+              "units": "Units",
+              "unitsMetric": "Metric",
+              "unitsImperial": "Imperial"
+            },
+            "resort": {
+              "skiReport": {
+                "heroTitle": "{{resort}} Snow Report",
+                "seoTitle": "Snow & Ski Conditions {{resort}}",
+                "seoText": "Before putting on your skis, check the snow conditions at {{resort}} one last time.\r\nHeight and quality of the snow, date of the last snowfall, today's weather, temperature, wind, visibility, state of the ski area ... all the information you are looking for to have a great day of skiing. Please note {{resort}} snow reports are sourced directly from the ski resorts and are only recorded during the official ski season's opening to closing dates.",
+                "lastUpdated": "Snow Report Last Updated:",
+                "snowDepth": "Snow depth",
+                "surfacePowder": "Powder",
+                "surfacePackedPowder": "Packed Powder",
+                "surfaceMachineGroomed": "Machine Groomed",
+                "surfaceHardPacked": "Hard Packed",
+                "surfaceMachineMade": "Machine Made",
+                "surfaceSpringSnow": "Spring Snow",
+                "surfaceWetSnow": "Wet Snow",
+                "surfaceCornSnow": "Corn Snow",
+                "surfaceVariableConditions": "Variable Conditions",
+                "open": "Open",
+                "weekendsOnly": "Weekends Only",
+                "temporarilyClosed": "Temporarily Closed",
+                "noReportAvailable": "No Report Available",
+                "closed": "Closed",
+                "permanentlyClosed": "Permanently Closed",
+                "liftOpen": "Lifts Open",
+                "runsOpen": "Runs Open",
+                "24hSnowfall": "24 Hour Snowfall",
+                "72hSnowfall": "72 Hour Snowfall",
+                "todayTemp": "Today's Forecast",
+                "highLow": "High/Low",
+                "fullForecast": "Full Forecast",
+                "provideFeedback": "Provide Feedback",
+                "whatYouThink": "What do you think?",
+                "isHelpful": "This is helpful",
+                "conditionsWrong": "The base or summit conditions are wrong",
+                "snowfallWrong": "The recent snowfall is wrong",
+                "openLiftsTrailsWrong": "The open lifts & trails are wrong",
+                "weatherWrong": "The weather is wrong",
+                "isNotHelpful": "This isn't helpful",
+                "commentSuggestion": "Comments or suggestions?",
+                "optionalText": "Optional",
+                "send": "Send",
+                "cancel": "Cancel",
+                "projectedClosing": "Projected Closing",
+                "projectedOpening": "Projected Opening",
+                "SnowreporterComments": "Snow Reporter Comments",
+                "recentSnowfall": "Recent Snowfall",
+                "historicalSnowfall": "Historical Snowfall",
+                "last7Days": "Last 8 Days",
+                "forecastedSnow": "Forecasted Snow",
+                "fullWeatherForecast": "Full Weather Forecast",
+                "terrain": "Terrain",
+                "terrainOverview": "Terrain Overview",
+                "openBeginnerRuns": "Beginner Runs Open",
+                "openIntermediateRuns": "Intermediate Runs Open",
+                "openAdvancedRuns": "Advanced Runs Open",
+                "openExpertRuns": "Expert Runs Open",
+                "acresOpen": "Acres Open",
+                "returnBySki": "Return By Ski",
+                "returnBySkiYes": "Yes",
+                "returnBySkiNo": "No",
+                "returnBySkiPartially": "Partial",
+                "activities": "Additional Activities",
+                "parksOpen": "Parks Open",
+                "pipesOpen": "Pipes Open",
+                "tubingLanes": "Tubing Lanes",
+                "nordicOpen": "Nordic Open",
+                "nordicSkategroomed": "Nordic Skategroomed",
+                "nordicTrackset": "Nordic Trackset",
+                "firstHandReport": "First Hand Report",
+                "allFirstHandReports": "All First Hand Reports",
+                "liftHoursOperation": "Lift Hours of Operation",
+                "liftOperatingHours": "Lift Operating Hours",
+                "nightSkiing": "Night Skiing",
+                "kmOpen": "Km Open",
+                "surfaceNotAvailable": "N.A.",
+                "lastSnowfallDate": "Last Snowfall Date",
+                "toolTipTemperature": "Temperature",
+                "toolTipNordic": "Nordic",
+                "toolTipPipes": "Pipes",
+                "toolTipParks": "Parks",
+                "surfaceBareSpots": "Bare Spots",
+                "kmPercentOpen": "% Km Open"
+              },
+              "weather": {
+                "heroTitle": "{{resort}} Weather Forecast",
+                "seoTitle": "{{resort}} Weather",
+                "seoText": "What’s the weather in {{resort}} today? See an overview of the current {{resort}} weather, including high and low temperatures for the day and wind mph at the base and summit of the mountain. Scroll to the right to see {{resort}} weather forecasts and wind for the next seven days. Tab over to Hour by Hour for an hourly {{resort}} weather forecast breakdown or to Long Range Weather Forecast for a detailed {{resort}} weather and snow forecast for the next seven days.",
+                "daily": "Daily",
+                "hourly": "Hourly",
+                "historicalSnowfall": "Historical Snowfall",
+                "chanceOfFlurries": "Chance of Flurries",
+                "rain": "Rain",
+                "chanceOfSleet": "Chance of Sleet",
+                "snow": "Snow",
+                "chanceOfThunderstorms": "Chance of Thunderstorms",
+                "flurries": "Flurries",
+                "fog": "Fog",
+                "hazy": "Hazy",
+                "cloudy": "Cloudy",
+                "mostlySunny": "Mostly Sunny",
+                "partlyCloudy": "Partly Cloudy",
+                "partlySunny": "Partly Sunny",
+                "sleet": "Sleet",
+                "sunny": "Sunny",
+                "thunderstorms": "Thunderstorms",
+                "unknown": "Unknown",
+                "hurricane": "Hurricane",
+                "overcast": "Overcast",
+                "slightlyCloudy": "Slightly cloudy",
+                "lightRain": "Light Rain",
+                "fair": "Fair",
+                "rainShowers": "Rain Showers",
+                "sleetShowers": "Sleet Showers",
+                "snowShowers": "Snow Showers",
+                "toolTipUpdated": "Updated"
+              },
+              "cams": {
+                "heroTitle": "{{resort}} Webcams",
+                "seoTitle": "Live {{resort}} Cams",
+                "seoText": "Planning a {{resort}} ski trip or just heading up for the day? View live ski conditions, snow totals and weather from the slopes right now with {{resort}} webcams. Get a sneak peek of the mountain with each cam stationed at various locations. Visit our overview page for more about {{resort}} ski resort."
+              },
+              "fhr": {
+                "heroTitle": "{{resort}} Firsthand Reports",
+                "seoTitle": "Skier Comments & Photos from the Slopes of {{resort}}",
+                "seoText": "What are the ski conditions like right now at {{resort}}? Read commentaries and see photos from fellow skiers and riders sharing their on-mountain experiences. Check back daily for new user-generated firsthand reports from {{resort}} to see ski conditions, new snow and general stoke from the slopes along with images. Firsthand reports are submitted via the OnTheSnow Ski & Snow Report App. Download the free app to be part of the conversation."
+              },
+              "overview": {
+                "heroTitle": "{{resort}} Ski Resort",
+                "overallRegion": "Overall in {{region}}",
+                "allMtnTerrainIRegion": "All Mountain Terrain in {{region}}",
+                "familyFriendlyRegion": "Family Friendly in {{region}}",
+                "terrainParkRegion": "Terrain Park in {{region}}",
+                "beginnerRegion": "Beginner Terrain in {{region}}",
+                "apresSkiRegion": "Apres Ski in {{region}}",
+                "smallSkiAreaRegion": "Small Ski Area in {{region}}",
+                "intermediateRegion": "Intermediate Terrain in {{region}}",
+                "expertRegion": "Expert Terrain in {{region}}",
+                "overviewTab": "Overview",
+                "insideScoopTab": "Inside Scoop",
+                "restaurantTab": "Restaurants",
+                "terrainTab": "Terrain",
+                "transportationTab": "Transportation",
+                "overviewTabDescription": "Here will be a respective Resort description from its Overview Section loaded from current CMS",
+                "readMore": "Read more",
+                "showLess": "Show less",
+                "bestTimeForSnow": "Best Time for Snow",
+                "snowPlanner": "Snow Planner",
+                "currentTerrainReport": "Current Terrain Report",
+                "beginnersRuns": "Beginners Runs",
+                "intermediateRuns": "Intermediate Runs",
+                "advancedRuns": "Advanced Runs",
+                "expertRuns": "Expert Runs",
+                "runsInTotal": "Runs in Total",
+                "terrainParks": "Terrain Parks",
+                "longestRun": "Longest Run",
+                "skiableTerrain": "Skiable Terrain",
+                "nightSkiing": "Night Skiing",
+                "snowMaking": "Snow Making",
+                "totalLifts": "Total Lifts: {{value}}",
+                "gondolasTrams": "Gondolas & Trams",
+                "eightPersonLifts": "Eight Person Lifts",
+                "highSpeedSixes": "High Speed Sixes",
+                "highSpeedQuads": "High Speed Quads",
+                "quadChairs": "Quad Chairs",
+                "tripleChairs": "Triple Chairs",
+                "doubleChairs": "Double Chairs",
+                "surfaceLifts": "Surface Lifts",
+                "elevation": "Elevation",
+                "verticalDrop": "Vertical Drop",
+                "importantDates": "Important Dates",
+                "projectedDaysOpen": "Projected Days Open",
+                "daysOpenLastYear": "Days Open Last Year",
+                "yearsOpen": "Years Open",
+                "averageSnowfall": "Average Snowfall",
+                "contactInfo": "Contact Information",
+                "positionPrefix": "# {{value}}"
+              },
+              "historicalSnowfall": {
+                "heroTitle": "{{resort}} Historical Snowfall",
+                "seoTitle": "{{resort}} Snow History",
+                "seoText": "How much snow did {{resort}} get this ski season and over the last several seasons? Check out the ski resort historical snowfall using the graph, {{resort}} snow stats—such as Total Snowfall, Max Base Depth, Biggest Snowfall, Total Snowfall Days and Average Base Depth—or the calendar below that shows daily snowfall data for the current ski season. To see how much snow {{resort}} got last ski season or any ski season dating back to 2009/2010, click the corresponding tab. Click Compare at the top left to see a season-over-season comparison of {{resort}} snowfall. In addition to snow history, you can also view the mountain's Base Depth by selecting it from the dropdown.",
+                "monthly": "Monthly",
+                "annual": "Annual",
+                "totalSnowfall": "Total Snowfall",
+                "snowfallDay": "Snowfall Days",
+                "toDate": "To Date",
+                "avgBaseDepth": "Average Base Depth",
+                "avgSummitDepth": "Average Summit Depth",
+                "maxBaseDepth": "Max Base Depth",
+                "biggestSnowfall": "Biggest Snowfall",
+                "average": "Average"
+              },
+              "trailMap": {
+                "heroTitle": "{{resort}} Trail Map",
+                "seoTitle": "{{resort}} Trail Map",
+                "seoText": "View the trails and lifts at {{resort}} with our interactive trail map of the ski resort. Plan out your day before heading to {{resort}} or navigate the mountain while you're at the resort with the latest {{resort}} trail maps.\r\nClick on the image below to see {{resort}} Trail Map in a high quality.",
+                "operatingStatus": "Operating status:",
+                "FullSnowReport": "Full Snow Report"
+              },
+              "reviews": {
+                "heroTitle": "{{resort}} Resort Reviews",
+                "seoTitle": "Reviews for {{resort}}",
+                "seoText": "Read skier and snowboarder-submitted reviews on {{resort}} that rank the ski resort and mountain town on a scale of one to five stars for attributes such as terrain, nightlife and family friendliness. See how {{resort}} stacks up in the reviews, on and off the slopes, from skiing and family activities to the après scene. Read up on pros, cons and other comments in reviews left by fellow skiers and riders. Don't forget to submit your own {{resort}} review! Scroll to the bottom of this page to let other travelers know about your skiing and resort experience.",
+                "OverallRatingHelpText": "A ski resort's overall star rating displayed here is not calculated based on a simple average but takes several factors, including the age of a review, into account.",
+                "total": "Total",
+                "overallValue": "Overall Value",
+                "totalReviews": "{{value}} Total Reviews:",
+                "starReviews5": "5 Star Reviews ({{value}})",
+                "starReviews4": "4 Star Reviews ({{value}})",
+                "starReviews3": "3 Star Reviews ({{value}})",
+                "starReviews2": "2 Star Reviews ({{value}})",
+                "starReviews1": "1 Star Reviews ({{value}})",
+                "fullReview": "Full Review",
+                "lessReview": "Less Review",
+                "rateThisResortTitle": "Rate this Resort",
+                "allReviews": "All Reviews",
+                "orderBy": "Order by:",
+                "mostRecent": "Most recent",
+                "highestRating": "Highest rating",
+                "lowestRating": "Lowest rating",
+                "rateThisResortText": "Share your experience at this resort to help other skiers.",
+                "selectOverallRating": "Select your Overall Rating",
+                "pros": "Pros",
+                "cons": "Cons",
+                "fullReviewText": "Full Review:",
+                "next": "Next",
+                "back": "Back",
+                "submit": "Submit",
+                "prosHelpText": "Example: Great All Mountain Terrain",
+                "consHelpText": "Example: Town far from Resort",
+                "reviewHelpText": "Example: Wish they would open upper peak 6 and 8, otherwise we'll vacation to copper mtn. Wish they would open upper peak 6 and 8, otherwise we'll vacation to copper mtn.",
+                "firstName": "First Name",
+                "lastName": "Last Name",
+                "emailAddress": "Email Address",
+                "dateVisited": "Date visited:",
+                "thankYouSubscrMessage": "Thank You. Would you like to receive {{resort}} Powder Alerts and our Newsletter in your Inbox?",
+                "noThankYouButton": "No thank you",
+                "yesPleaseButton": "Yes please",
+                "toolTip1Star": "Poor",
+                "toolTip2Stars": "Fair",
+                "toolTip3Stars": "Average",
+                "toolTip4Stars": "Good",
+                "toolTip5Stars": "Excellent"
+              },
+              "lodging": {
+                "heroTitle": "{{resort}} Lodging",
+                "allHotelsHeading": "All {{resort}} Hotels",
+                "sortBy": "Sort by:",
+                "price": "Price",
+                "name": "Name",
+                "starRating": "Star Rating",
+                "viewDeal": "View Deal",
+                "viewAllDeals": "View all {{value}} Deals",
+                "noResults": "Unfortunately No Accommodations Available For This Resort"
+              },
+              "liftTickets": {
+                "adult": "Adult",
+                "child": "Child",
+                "weekday": "Weekday",
+                "purchase": "Purchase",
+                "currencyText": "*All prices in"
+              }
+            },
+            "tripWidget": {
+              "planYourTrip": "Plan Your Trip",
+              "resortLodging": "{{resort}} Lodging",
+              "liftAccess": "Lift Access",
+              "skiRental": "Ski Rental",
+              "checkIn": "Check In",
+              "checkOut": "Check Out",
+              "skiLessons": "Ski Lessons",
+              "skiLodging": "Ski Lodging",
+              "partnerLabel": "OnTheSnow recommended partner",
+              "schoolBooking": "No. 1 for {{resort}} ski school bookings",
+              "checkYetiBenefits1": "500+ ski resorts in Europe",
+              "checkYetiBenefits2": "20,000+ customer reviews",
+              "checkYetiBenefits3": "Up to 15% discount",
+              "searchOffers": "Search Offers",
+              "skiRentalLabel": "No. 1  for {{resort}} ski rentals",
+              "skiRentalBenefits1": "500+ ski resorts in Europe",
+              "skiRentalBenefits2": "20,000+ customer reviews",
+              "skiRentalBenefits3": "Up to 15% discount",
+              "regionLodging": "{{region}} Ski Lodging"
+            },
+            "region": {
+              "skiReport": {
+                "heroTitle": "{{region}} Snow Report",
+                "depictedResort": "{{resort}}, {{region}}",
+                "seoTitle": "Snow in {{region}}",
+                "seoText": "The table below shows the snow cover in {{region}}. \r\nFor each ski resort you will find the essential information from its snow report: snow depths, open slopes and lifts, date of the last snowfall, today's weather. All the information you need to choose the right ski resort for you in {{region}}. Click on the name of a resort to obtain its complete snow report. You'll never have to wonder if it's snowing in {{region}} again.",
+                "webcamSnowReport": "Webcam Snow Report",
+                "lastSnowfall": "Last Snowfall",
+                "snowfall": "Snowfall",
+                "baseDepth": "Base Depth",
+                "openTrails": "Open Trails",
+                "openLifts": "Open Lifts",
+                "opening": "Opening {{date}}"
+              },
+              "cams": {
+                "heroTitle": "{{region}} Webcams",
+                "seoTitle": "Live {{region}} Cams",
+                "seoText": "Planning a {{region}} ski trip or just heading up for the day? See who got the most snow in {{region}}, and view live ski conditions, snow totals and weather from the slopes right now with webcams from ski resorts. Don't leave your perfect powder day to chance, see what the {{region}} weather, ski conditions and snow totals really look like. Click a cam below to see a detailed view of that webcam and other cams from the ski resort, or visit our overview page for more about {{region}} ski resorts.",
+                "textSnowReport": "Text Snow Report"
+              },
+              "resortGuide": {
+                "heroTitle": "{{region}} Ski Resorts",
+                "SeeFullFAQ": "Click to see the full FAQ",
+                "topRatedResorts": "Top Rated Ski Resorts",
+                "overallTitle": "Overall",
+                "allMtnTerrainTitle": "All Mountain Terrain",
+                "familyFriendlyTitle": "Family Friendly",
+                "terrainParkTitle": "Terrain Park",
+                "beginnerTitle": "Beginner",
+                "apresSkiTitle": "Apres Ski",
+                "smallSkiAreaTitle": "Small Ski Area",
+                "intermediateTitle": "Intermediate",
+                "expertTitle": "Expert",
+                "overallDescription": "A ski resort with terrain for all levels and closeby lodging, lots of apres ski activities and a good ski school make for great vacations on snow.",
+                "allMtnTerrainDescription": "Ski or ride it all. Groomed slopes, clusters of trees, deep powder, rock hard snow, even the back bowls. The whole mountain is your oyster.",
+                "familyFriendlyDescription": "Think “whole family.” Terrain for all skill levels; on-snow play parks;  lessons geared to young children; off-slope fun; an easy-to-get-to family meet-up place",
+                "terrainParkDescription": "Look at it as a “snow park” with terrain and special features so both skiers and snowboarders can learn and perform tricks.",
+                "beginnerDescription": "Beginners have either never skied before or are just starting out. Be sure to take lessons from a ski/snowboard instructor, not a well-meaning friend of family member.",
+                "apresSkiDescription": "When the sun goes down, the fun keeps on rolling. Bars, restaurants, soaking in the hotel hot tub work wonders \"after ski.\"",
+                "smallSkiAreaDescription": "Smaller ski resorts have less terrain, but usually enough variety for a fun day or two. Most have night skiing and are generally close to home. A perfect place to learn.",
+                "intermediateDescription": "You’re gaining  confidence. You can ski all green and many blue runs. You got that “parallel” thing down pat most of the time. You’re anxious to get even better.",
+                "expertDescription": "Experts know no real bounds. Tackle it all. Experts will want to look for resorts with plenty of âblack diamondâ terrain to continually test and refine skills.",
+                "reviews": "{{value}} Reviews",
+                "allResorts": "All Resorts",
+                "viewAllResorts": "View All Resorts",
+                "FaqTitle": "{{region}} Ski Resorts FAQ",
+                "FaqOpenAll": "Open all",
+                "regionTopRatedResorts": "Top Rated {{region}} Ski Resorts",
+                "seoTitle": "Most Popular {{region}} Ski Resorts",
+                "seoText": "Planning a {{region}} ski trip? Browse our collection of skier and snowboarder-submitted reviews for {{region}} ski resorts to see which mountains claimed the top spot in each category. {{region}} reviews rank ski areas on a scale of one to five stars in the following categories: Overall Rating, All-Mountain Terrain, Nightlife, Terrain Park and Family Friendly. See how your favorite {{region}} ski area stacks up among the top rated in terms of skiing and après."
+              },
+              "openResorts": {
+                "heroTitle": "Open Ski Resorts in {{region}}",
+                "seoTitle": "Open Ski Resorts in {{region}}",
+                "seoText": "Which ski resorts are currently open in {{region}}? This list of {{region}} ski mountains that are open today is updated daily. In addition to viewing the open ski resorts across {{region}}, you can sort the list of open mountains by number of lifts open, 24 hour snow totals, base depth and user rating. Toggle over to view a list of Projected Opening Dates and Projected Closing dates for {{region}} ski resorts.",
+                "noResorts": "No resorts are open today."
+              },
+              "openDates": {
+                "heroTitle": "{{region}} Ski Resort Projected Opening Dates",
+                "seoTitle": "{{region}} Ski Resort Projected Opening Dates",
+                "seoText": "When will ski resorts in the {{region}} open for the ski season? See this list of projected opening dates for {{region}} mountains. Important Note: Not all dates listed here are official and final; they are projected and subject to change. Sort the list by Opening Dates or Resort Name, 24 Hour Snow, Base Depth and User Rating. Check back for updates on when the lifts are set to start spinning at {{region}} ski areas, and don't miss opening day at your favorite resort!",
+                "projectedDate": "Projected opening date",
+                "lodging": "Lodging"
+              },
+              "closingDates": {
+                "heroTitle": "{{region}} Ski Resort Projected Closing Dates",
+                "seoTitle": "{{region}} Ski Resort Closing Dates",
+                "seoText": "When are {{region}} ski resorts closing for the season? Check out this list of projected closing dates for ski resorts in {{region}}. Sort the list by Resort Name, Projected Closing, 24 Hour Snow, Base Depth and User Rating to help you plan the rest of your ski season and get those late-season turns in. All projected closing dates are subject to change at each resort's discretion depending on the snow conditions and other factors.",
+                "projectedDate": "Projected closing date",
+                "noResorts": "No resorts found!"
+              },
+              "liftTickets": {
+                "seoTitle": "Lift Ticket Prices for Ski Resorts in {{region}}",
+                "seoText": "How much is a lift ticket at {{region}} ski resorts? Find prices for single day, half day and multi-day adult and child lift tickets at {{region}} ski areas wherever that information is available and provided by the mountain. {{region}} lift ticket prices are provided to OnTheSnow or sourced directly from the ski resorts, who are responsible for their accuracy. Lift ticket prices are often dynamic and subject to change. Reach out to the ski resort of interest or visit their website for the latest lift ticket pricing, deals and discounts or to purchase lift tickets or season passes.",
+                "skiPasses": "{{region}} Ski Passes",
+                "resort": "Resort Name",
+                "season": "Season Pass",
+                "adult": "Adult",
+                "child": "Child",
+                "weekday": "Weekday",
+                "purchase": "Purchase",
+                "disclaimer": "Disclaimer: Lift Ticket prices are provided to OnTheSnow.com directly by the mountain resorts and those resorts are responsible for their accuracy. Daily Ticket prices are subject to change. Call resort for updates: {{phone}}.",
+                "passSeoInfoTitle": "{{region}} Ski Pass and Lift Ticket Info",
+                "passSeoInfoText": "<h3><strong>{{region}} Season Pass Info</strong></h3>\r\n<p>How many times will you visit {{region}} resorts? A season Pass is the best choice for avid skiers\r\nand for all who want  to return to the resorts in {{region}} through entire winter season. Skiers can choose from various season pass types to suit all ages and preferences. </p>\r\n<p>Season Pass holders get the best price and various benefits in addition to their season lift tickets.</p>\r\n\r\n<h3><strong>{{region}} Daily Lift Tickets Info</strong></h3>\r\n<p>The 2022 – 2023 Ski Season Daily Ski Passes vary based on dates, age, and number of days. Consider the early bird lift ticket prices are usualy different from top season prices. The late season lift ticket prices might save your money, too.\r\n\r\n<h3><strong>Where to purchase Lift Tickets?</strong>\r\n</h3>n<p>Lift tickets can be purchased online through a resort website, or in person at a cashdesk in the resort. For the detailed information call particular resort.</p>\r\n\r\n<h3><strong>The Deals</strong></h3>\r\n<p>Purchasing your tickets in advance is the best way to save. We recommend to check out resort’s specials page for all kinds of deals, including retail, lodging and light ticket deals.</p>",
+                "heroTitle": "{{region}} Lift Tickets"
+              }
+            },
+            "privacyPolicy": {
+              "heroTitle": "Privacy Policy"
+            },
+            "termsConditions": {
+              "heroTitle": "OnTheSnow Terms and Conditions"
+            },
+            "alertsSubscriptions": {
+              "heroTitle": "Alerts & Subscriptions",
+              "nwsltrSub": "Newsletter Subscribe",
+              "hereYouCan": "Here you can subscribe/unsubscribe to our newsletter and special offers, and manage your existing Snow Report, Powder Alert, and Powder Forecast ski resort emails.",
+              "emailAddress": "Email Address...",
+              "subscribe": "Subscribe",
+              "unsubscribe": "Unsubscribe",
+              "powderAlerts": "Powder Alerts",
+              "powderForecast": "Powder Forecast",
+              "deleteMyProfile": "Delete my Profile",
+              "confirmDeleteProfile": "Yes, please delete my whole profile!"
+            },
+            "404Page": {
+              "heroTitle": "Oops! That page can't be found.",
+              "heroText": "The page you requested cannot be found. It may have expired or been removed. Please verify that the spelling and punctuation are correct and try reloading the page.",
+              "searchBarHelpText": "Vail"
+            },
+            "snowWeather": {
+              "home": {
+                "heroTitle": "Snow Reports & Snow Totals",
+                "seoTitle": "Ski Resort Snow Totals",
+                "seoText": "Which ski resorts got the most snow? Check out the latest snowfall totals for ski resorts and compare mountains with the most new snow from today, yesterday and two days ago. In addition to the updated 72-hour snow totals, this snow report also compares ski areas by snow depth totals at the summit and base of the mountain. Click through to any ski resort in the list to view the snow report for that mountain.",
+                "viewAllRegions": "View All Regions",
+                "passProducts": "Pass Products",
+                "visitOtsCoUk": "(Visit OnTheSnow.co.uk)",
+                "viewAllEuCountries": "View All European Countries",
+                "visitOtsCom": "(Visit OnTheSnow.com)",
+                "viewAllUsaStates": "View All US states",
+                "latestWeatherNews": "Latest Weather News",
+                "viewAllWeatherNews": "View All Weather News",
+                "72hourSnowfall": "72 Hour Snowfall"
+              }
+            },
+            "newsroom": {
+              "article": {
+                "catBestOfTopics": "Best of topics",
+                "catGearGuide": "Gear Buying Guide",
+                "catGearReview": "Gear Review",
+                "catHealthFitness": "Health & Fitness",
+                "catHowto": "How To",
+                "catLiftTicketDeals": "Lift Tickets Deals",
+                "catLongRangeForecast": "Long Range Forecast",
+                "catResortFeature": "Resort Feature",
+                "catSeasonPass": "Season Pass",
+                "catSnowScience": "Snow Before You Go",
+                "catTravelFature": "Travel Feature",
+                "relatedStories": "Related Stories"
+              },
+              "home": {
+                "mostPopular": "Most Popular",
+                "seeMore": "See more"
+              }
+            },
+            "guide": {
+              "home": {
+                "heroTitle": "Find a Ski Resort in North America & Worldwide",
+                "seoTitle": "Where Should I Go Skiing?",
+                "seoText": "Planning a ski trip? Find the most comprehensive guide to ski resorts nearby and globally. Click on a state or region from the options below to see a list of ski resorts in the area. Alternatively, you can select a hemisphere, continent, country, state or province from the Find Your Resort dropdown menu, and click Show Results for more information on the ski resorts in each area, including a terrain breakdown, mountain stats, number of lifts, OnTheSnow skier and rider visitor ratings, and the best week of the ski season to ski each mountain. From there, click through to the ski resort of choice to read up on the mountain at a glance, and check out the snow report, current skiing conditions via the webcams, weather forecast and more. Your next ski vacation starts right here!",
+                "mostPopular": "Most Popular",
+                "seeMore": "See more",
+                "rateResortLabel": "Rate a Resort",
+                "resortReviewHelptext": "Have you visited a ski resort lately? Share your experiences to provide insights to others and important feedback to ski resorts."
+              },
+              "article": {
+                "catBestOfTopics": "Best of topics",
+                "catGearGuide": "Gear Buying Guide",
+                "catGearReview": "Gear Review",
+                "catHealthFitness": "Health & Fitness",
+                "catHowto": "How To",
+                "catLiftTicketDeals": "Lift Tickets Deals",
+                "catLongRangeForecast": "Long Range Forecast",
+                "catResortFeature": "Resort Feature",
+                "catSeasonPass": "Season Pass",
+                "catSnowScience": "Snow Before You Go",
+                "catTravelFature": "Travel Feature",
+                "relatedStories": "Related Stories"
+              }
+            },
+            "searchResults": {
+              "helptext": "Search resorts, regions, pass programs, articles etc.",
+              "noResultsFound": "No Results Found",
+              "resorts": "Resorts",
+              "regions": "Regions",
+              "news": "News",
+              "article": {
+                "catBestOfTopics": "Best of topics",
+                "catGearGuide": "Gear Buying Guide",
+                "catGearReview": "Gear Review",
+                "catHealthFitness": "Health & Fitness",
+                "catHowto": "How To",
+                "catLiftTicketDeals": "Lift Tickets Deals",
+                "catLongRangeForecast": "Long Range Forecast",
+                "catResortFeature": "Resort Feature",
+                "catSeasonPass": "Season Pass",
+                "catSnowScience": "Snow Before You Go",
+                "catTravelFature": "Travel Feature",
+                "relatedStories": "Related Stories"
+              },
+              "home": {
+                "mostPopular": "Most Popular",
+                "seeMore": "See more"
+              }
+            },
+            "homePage": {
+              "heroTitle": "Want to go skiing?",
+              "heroSubtitle": "Everything you need for an extraordinary ski season is right here at OnTheSnow.",
+              "searchBarHelpText": "Type resort name...",
+              "popularSearches": "Popular Searches",
+              "snowingSomewhere": "It’s Snowing Somewhere",
+              "latestNews": "Latest News",
+              "article": {
+                "catBestOfTopics": "Best of topics",
+                "catGearGuide": "Gear Buying Guide",
+                "catGearReview": "Gear Review",
+                "catHealthFitness": "Health & Fitness",
+                "catHowto": "How To",
+                "catLiftTicketDeals": "Lift Tickets Deals",
+                "catLongRangeForecast": "Long Range Forecast",
+                "catResortFeature": "Resort Feature",
+                "catSeasonPass": "Season Pass",
+                "catSnowScience": "Snow Before You Go",
+                "catTravelFature": "Travel Feature",
+                "relatedStories": "Related Stories"
+              },
+              "home": {
+                "mostPopular": "Most Popular",
+                "seeMore": "See more"
+              },
+              "companyName": "OnTheSnow",
+              "description": "Provides the Snow Report, Cams, Deals, and Ski Resort Reviews for over 2,000 ski resorts worldwide. OnTheSnow is the primary source of all snow reports on the web.",
+              "legalName": "Mountain News LLC",
+              "employees": "50",
+              "h1Title": "Ski Reports & Snow Forecast"
+            },
+            "smartBanner": {
+              "otsOnAndroid": "OnTheSnow On Android",
+              "appTitle": "Snow & Weather Reports",
+              "ctaOpen": "OPEN"
+            },
+            "email": {
+              "error": {
+                "text": "Error. Please try again."
+              },
+              "unsubscribe": {
+                "message": "Click Here To Unsubscribe",
+                "text": "Successfully unsubscribed"
+              }
+            }
+          },
+          "seo": {},
+          "unit": {
+            "celsius": "{{count}} C°",
+            "fahrenheit": "{{count}} F°",
+            "celsiusShort": "{{count}}°",
+            "fahrenheitShort": "{{count}}°",
+            "cm": "{{count}} cm",
+            "cmShort": "{{count}}cm",
+            "inch": "{{count}} inch",
+            "inch_plural": "{{count}} inches",
+            "inchShort": "{{count}}\"",
+            "km": "{{count}} km",
+            "kmph": "{{count}} km/h",
+            "mph": "{{count}} mph",
+            "mile": "{{count}} mi",
+            "acres": "{{count}} ac",
+            "hectares": "{{count}} ha",
+            "m": "{{count}} m",
+            "feet": "{{count}} foot",
+            "feet_plural": "{{count}} feet",
+            "mShort": "{{count}}m",
+            "feetShort": "{{count}}'",
+            "currency": "USD"
+          }
+        }
+      },
+      "initialLocale": "en-US",
+      "userConfig": {
+        "react": {
+          "useSuspense": false
+        },
+        "i18n": {
+          "defaultLocale": "en",
+          "locales": ["en", "en-US"]
+        },
+        "default": {
+          "react": {
+            "useSuspense": false
+          },
+          "i18n": {
+            "defaultLocale": "en",
+            "locales": ["en", "en-US"]
+          }
+        }
+      }
+    }
+  },
+  "__N_SSG": true
+}
