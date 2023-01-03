@@ -14,10 +14,11 @@
 
 ### Current TODO:
 
+- Error handling for OTS 500s
+- Fix sporadic CORS issues
 - √ Upgrade MountainDetail with elevations
 - MountainDetail -> Mountain Sidesheet
 - Fix pagination on fetch
-- Error handling for OTS 500s
 - Fix `any`s
 - √ Change markers
 - √ Fetch elevation

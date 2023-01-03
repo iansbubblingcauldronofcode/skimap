@@ -55,8 +55,6 @@ export const getResortDetails = async (resortId: any) => await fetchData(baseUrl
 export const getResortByRegion = async (regionId: any) => {
   let resorts = [];
   const resp = await fetchData(getResortUrl(regionId, 0));
-
-  /*
   // iDo: fix this absolute disaster
   // It's also causing load issues so we're gonna truncate that for now.
   if (resp.pagination.count > resp.data.length) {
@@ -72,6 +70,4 @@ export const getResortByRegion = async (regionId: any) => {
   } else {
     return resp.data;
   }
-  */
-  return resp.data;
 };

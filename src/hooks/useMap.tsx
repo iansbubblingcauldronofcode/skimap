@@ -19,7 +19,8 @@ export const useMap = ({ mapStyle, updateMountainSidesheet }: UseMapProps) => {
     if (mapContainerRef.current) {
       const map = new mapboxgl.Map({
         container: mapContainerRef.current,
-        style: `mapbox://styles/mapbox/${mapStyle}`,
+        style: `mapbox://styles/mapbox/satellite-streets-v12`,
+        // style: `mapbox://styles/mapbox/${mapStyle}`,
         center: [-101, 40],
         zoom: 4,
       });
@@ -37,7 +38,6 @@ export const useMap = ({ mapStyle, updateMountainSidesheet }: UseMapProps) => {
         // Load an image from an external URL.
         map.loadImage('https://cdn-icons-png.flaticon.com/512/2439/2439606.png', (error, image) => {
           if (error) console.log(error);
-
           if (image) {
             map.addImage('mountain', image);
           }
@@ -50,7 +50,7 @@ export const useMap = ({ mapStyle, updateMountainSidesheet }: UseMapProps) => {
             layout: {
               'icon-allow-overlap': true,
               'icon-image': 'mountain', // reference the image
-              'icon-size': 0.05,
+              'icon-size': 1.5,
               'icon-padding': 0,
             },
           });
@@ -106,7 +106,7 @@ export const useMap = ({ mapStyle, updateMountainSidesheet }: UseMapProps) => {
       // clean up on unmount
       return () => map.remove();
     }
-  }, [mapStyle]);
+  }, []); // re-add mapStyle to this
 
   return {
     mapContainerRef,

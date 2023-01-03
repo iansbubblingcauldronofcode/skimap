@@ -4,10 +4,9 @@
 const fetchConfig = {
   method: 'GET',
   mode: 'cors' as RequestMode,
-  cache: 'default' as RequestCache, // Cacheing is *surely* our friend here... yes?
   headers: {
     'Content-Type': 'application/json',
-    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Origin': 'http://localhost:3000', // hmm...
   },
 };
 export const fetchData = async (url: string) => await fetch(url, fetchConfig).then((response) => response.json());
