@@ -1,5 +1,5 @@
 import { MountainDetail } from '../components/MountainDetail/MountainDetail';
-import { configurePointForMap } from '../utils/utils';
+import { configurePointForMap, getFakePointsData } from '../utils/utils';
 import { getAllResorts } from '../api/skimap.api';
 import { useEffect, useRef } from 'react';
 import ReactDOM from 'react-dom';
@@ -58,8 +58,12 @@ export const useMap = ({ mapStyle, updateMountainSidesheet }: UseMapProps) => {
       });
 
       map.on('load', async () => {
-        const resorts = await getAllResorts();
-        const pointsData = await configurePointForMap(resorts);
+        // const resorts = await getAllResorts();
+        // const pointsData = await configurePointForMap(resorts);
+        //=====================================================================
+        // FAKE 'EM FOR NOW ---> Need more consistent fetching / err handling
+        //=====================================================================
+        const pointsData = getFakePointsData();
         const source: mapboxgl.GeoJSONSource = map.getSource('skimapdata') as mapboxgl.GeoJSONSource;
         source.setData(pointsData as any);
       });
